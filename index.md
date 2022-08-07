@@ -32,6 +32,10 @@ _To be continued: come back often for updates_
 
 _To be continued: come back often for updates_
 
-## License
+## About this page
 
-Last update: August 2022. The content of _jacopotagliabue.it_ are released under the open [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/).
+My chibi has been designed by incredibly talented friend [wisesnail](https://www.instagram.com/wisesnail/?hl=en)
+
+The content of _jacopotagliabue.it_ are released under the open [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/).
+
+Last update: August 2022. 
