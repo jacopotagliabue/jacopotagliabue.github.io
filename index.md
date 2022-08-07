@@ -1,14 +1,34 @@
-## Apo's Stuff
+## Apo's Boring Website
 
-Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso. Tooso was proudly serving predictions to dozens of millions of shoppers per year, before being acquired by TSX:CVO in [2019](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso).
+Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso. a NLP company in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso).
 
-I served as Coveo's Director of A.I. for three years, combining product thinking and research-like curiosity to build better data-driven systems at scale. I am a huge fan of open science and open source, and divide my days between research, product and evangelization (through code, datasets and talks). 
+As Coveo's Director of A.I., I led the A.I. and MLOps roadmap through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Oxford, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I spend quite some time bridging the gap between academia and industry research, and between research and business: while pursuing my agenda in language and reasoning, I teach NLP and MLSys at NYU. In previous lives, I managed to do scienc-y things for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). 
+I'm way better at sharing [code](https://github.com/jacopotagliabue) and [thoughts](https://medium.com/@jacopotagliabue) than [tweets](https://twitter.com/jacopotagliabue). I talk _a lot_, and I'm often invited to do so by industry (BBC, Walmart, Pinterest, Tubi) and academic (SIRIP, CiE, KDD) folks.
 
-My A.I. work has been featured several times in the general press and presented in business and academic venues (including WWW, ACL, RecSys, SIGIR, NeurIPS, as well as winning best paper at NAACL).
+In previous lives, I managed to do scienc-y things for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). I am also Adj. Professor for [ML Systems at NYU](https://github.com/jacopotagliabue/FREE_7773), which is the only job I ever had my parents actually understand.
 
-## WIP
+### Quick Links
+
+* Check what I'm up to on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
+* Follow my adventures in [open source](https://github.com/jacopotagliabue) and [research](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en).
+* Join our [CIKM Data Challenge](https://reclist.io/cikm2022-cup/).
+
+## Current boring stuff
+
+### Reclist
+
+_To be continued: come back often for updates_
+
+### MLOps at Reasonable Scale
+
+_To be continued: come back often for updates_
+
+### Language, Learning, Reasoning
+
+_To be continued: come back often for updates_
+
+## Old boring stuff
 
 _To be continued: come back often for updates_
 
