@@ -4,14 +4,15 @@ Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.
 
 I led Coveo's A.I. and MLOps roadmap through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Oxford, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I'm way better at sharing [code](https://github.com/jacopotagliabue) and [thoughts](https://medium.com/@jacopotagliabue) than [tweets](https://twitter.com/jacopotagliabue). I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, NVIDIA) and academia (SIRIP, CiE, KDD).
+In previous lives, I managed to do scienc-y things for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, NVIDIA) and academia (SIRIP, CiE, KDD).
 
-In previous lives, I managed to do scienc-y things for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). I am currently an Adj. Professor ([ML Systems](https://github.com/jacopotagliabue/FREE_7773)) at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
+I am currently an Adj. Professor ([ML Systems](https://github.com/jacopotagliabue/FREE_7773)) at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
 ### Quick links
 
-* Check what I'm up to on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
-* Follow my adventures in [open source](https://github.com/jacopotagliabue) and [research](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en).
+I'm better at sharing [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en) and [thoughts](https://medium.com/@jacopotagliabue) than [tweets](https://twitter.com/jacopotagliabue).
+
+If you really need a resume, [Linkedin](https://www.linkedin.com/in/jacopotagliabue/) is my best approximation.
 
 ### Boring updates
 
