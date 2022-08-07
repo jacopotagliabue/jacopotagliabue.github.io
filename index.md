@@ -1,4 +1,4 @@
-## Apo's Boring Website
+# Apo's Boring Website
 
 ## TL;DR
 
