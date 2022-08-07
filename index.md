@@ -1,12 +1,14 @@
 ## Apo's Boring Website
 
-Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso, a NLP company in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). In previous lives, I managed to do scienc-y things for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements").
+## TL;DR
+
+Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso, a NLP company in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
 I led Coveo's A.I. and MLOps roadmap through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Oxford, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
 I'm way better at sharing [code](https://github.com/jacopotagliabue) and [thoughts](https://medium.com/@jacopotagliabue) than [tweets](https://twitter.com/jacopotagliabue). I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, NVIDIA) and academia (SIRIP, CiE, KDD).
 
-I am currently an Adj. Professor ([ML Systems](https://github.com/jacopotagliabue/FREE_7773)) at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
+In previous lives, I managed to do scienc-y things for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). I am currently an Adj. Professor ([ML Systems](https://github.com/jacopotagliabue/FREE_7773)) at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
 ### Quick links
 
