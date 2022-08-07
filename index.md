@@ -10,11 +10,11 @@ I am currently an Adj. Professor of [ML](https://github.com/jacopotagliabue/FREE
 
 ### Where is my mind?
 
-I share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [thoughts](https://medium.com/@jacopotagliabue) and [tweets](https://twitter.com/jacopotagliabue) (ORDER BY importance DESC). If you don't want to sell me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
+I share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [thoughts](https://medium.com/@jacopotagliabue) and [tweets](https://twitter.com/jacopotagliabue) (ORDER BY importance DESC). If you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/)! 
 
-### Vey recent stuff
+Very recent stuff you may be looking for (or not):
 
-* I co-organize the [CIKM 2022 EvalRS Challenge](https://reclist.io/cikm2022-cup/): join us!
+* Join us at [CIKM 2022 EvalRS Challenge](https://reclist.io/cikm2022-cup/)!
 * My keynote at the _NVIDIA RecSys Summit_ is now [available](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)).
 * Our work in multi-modal models is finally [out as a pre-print](https://arxiv.org/abs/2204.03972).
 
