@@ -1,4 +1,6 @@
-Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso, a NLP company in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
+## My name is Apo and I'm a mighty pirate
+
+Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso, a NLP / IR startup in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
 I led Coveo's A.I. and MLOps roadmap through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Oxford, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
@@ -8,7 +10,7 @@ I am currently an Adj. Professor of [ML](https://github.com/jacopotagliabue/FREE
 
 ### Where is my mind?
 
-I share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [thoughts](https://medium.com/@jacopotagliabue) and [tweets](https://twitter.com/jacopotagliabue) (in this order of importance). If you really need a resume, [Linkedin](https://www.linkedin.com/in/jacopotagliabue/) is my best approximation.
+I share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [thoughts](https://medium.com/@jacopotagliabue) and [tweets](https://twitter.com/jacopotagliabue) (ORDER BY importance DESC). If you don't want to sell me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
 ### Vey recent stuff
 
@@ -18,15 +20,11 @@ I share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.goog
 
 ## Current stuff
 
-### Reclist
+### RecList and MLOps
 
 _To be continued: come back often for updates_
 
-### MLOps at Reasonable Scale
-
-_To be continued: come back often for updates_
-
-### Language, Learning, Reasoning
+### A.I. research
 
 _To be continued: come back often for updates_
 
