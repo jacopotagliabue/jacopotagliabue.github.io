@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Apo's Stuff
 
-You can use the [editor on GitHub](https://github.com/jacopotagliabue/jacopotagliabue.it/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso. Tooso was proudly serving predictions to dozens of millions of shoppers per year, before being acquired by TSX:CVO in [2019](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I served as Coveo's Director of A.I. for three years, combining product thinking and research-like curiosity to build better data-driven systems at scale. I am a huge fan of open science and open source, and divide my days between research, product and evangelization (through code, datasets and talks). 
 
-### Markdown
+I spend quite some time bridging the gap between academia and industry research, and between research and business: while pursuing my agenda in language and reasoning, I teach NLP and MLSys at NYU. In previous lives, I managed to do scienc-y things for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My A.I. work has been featured several times in the general press and presented in business and academic venues (including WWW, ACL, RecSys, SIGIR, NeurIPS, as well as winning best paper at NAACL).
 
-```markdown
-Syntax highlighted code block
+## WIP
 
-# Header 1
-## Header 2
-### Header 3
+_To be continued: come back often for updates_
 
-- Bulleted
-- List
+## License
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacopotagliabue/jacopotagliabue.it/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Last update: August 2022. The content of _jacopotagliabue.it_ are released under the open [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/).
