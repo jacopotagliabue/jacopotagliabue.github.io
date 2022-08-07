@@ -2,7 +2,7 @@ Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.
 
 I led Coveo's A.I. and MLOps roadmap through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Oxford, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, eBay, NVIDIA) and academia (SIRIP, CiE, KDD) [ _yes_, you can invite me too! ].
+I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, eBay, NVIDIA) and academia (SIRIP, CiE, KDD) [ _yes_, you can invite me too, if you ask nicely! ].
 
 I am currently an Adj. Professor of [ML](https://github.com/jacopotagliabue/FREE_7773) at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
@@ -10,13 +10,13 @@ I am currently an Adj. Professor of [ML](https://github.com/jacopotagliabue/FREE
 
 I share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [thoughts](https://medium.com/@jacopotagliabue) and [tweets](https://twitter.com/jacopotagliabue) (in this order of importance). If you really need a resume, [Linkedin](https://www.linkedin.com/in/jacopotagliabue/) is my best approximation.
 
-### Boring updates
+### Vey recent stuff
 
 * I co-organize the [CIKM 2022 EvalRS Challenge](https://reclist.io/cikm2022-cup/): join us!
 * My keynote at the _NVIDIA RecSys Summit_ is now [available](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)).
 * Our work in multi-modal models is finally [out as a pre-print](https://arxiv.org/abs/2204.03972).
 
-## Current boring stuff
+## Current stuff
 
 ### Reclist
 
@@ -30,7 +30,7 @@ _To be continued: come back often for updates_
 
 _To be continued: come back often for updates_
 
-## Old boring stuff
+## Old stuff
 
 In previous lives, I managed to do scienc-y things for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements").
 
