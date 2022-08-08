@@ -35,7 +35,7 @@ _To be continued: come back often for updates_
 
 In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements").
 
-_iSport_: some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led the data team that re-engineered [Olimpia Milano](http://www.olimpiamilano.com/en/) workflow for the analysis of basketball data. [iSport](public/isport_gazzetta.pdf) was the first attempt in Italy (and one of the first worldwide) of running sophisticated analytics for basketball teams;
+_iSport_: some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led the data team that re-engineered [Olimpia Milano](http://www.olimpiamilano.com/en/) workflow for the analysis of basketball data. [iSport](public/isport_gazzetta.pdf) was the first attempt in Italy (and one of the first worldwide) of running sophisticated analytics for basketball teams.
 
 _pedalaMI_: I led the first data analysis and [vizualization](https://vimeo.com/74664341) effort on Milan's public [bike-sharing service](public/PedalaMi.pdf), which received plenty of [national press](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) coverage. No bikers (and no bureaucrats) were harmed for the project.
 
