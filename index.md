@@ -1,10 +1,10 @@
 ## My name is Apo and I'm a mighty pirate
 
-Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso, a NLP / IR startup in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
+Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
 I led Coveo's A.I. and MLOps roadmap through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Oxford, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, eBay, NVIDIA) and academia (SIRIP, CiE, KDD, Stanford, Harvard) [ _yes_, you can invite me too, if you ask nicely! ].
+I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford, Harvard Medical School) [ _yes_, you can invite me too, if you ask nicely! ].
 
 I am currently an Adj. Professor of [ML](https://github.com/jacopotagliabue/FREE_7773) at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
@@ -29,9 +29,11 @@ _To be continued: come back often for updates_
 
 ## Old stuff
 
-In previous lives, I managed to do scienc-y things for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements").
+In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"):
 
-_To be continued: come back often for updates_
+* some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film), I led the data team that re-engineered [Olimpia Milano](http://www.olimpiamilano.com/en/) workflow for the analysis of basketball data. [iSport](public/isport_gazzetta.pdf) was the first attempt in Italy (and one of the first worldwide) of running sophisticated analytics for basketball teams;
+
+* I led the first data analysis and [vizualization](https://vimeo.com/74664341) effort on Milan's public [bike-sharing service](public/PedalaMi.pdf), which received plenty of [national press](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) coverage. No bikers (and no bureaucrats) were harmed for the project.
 
 ## About this page
 
