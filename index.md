@@ -32,12 +32,11 @@ _Current interests_: ML testing, developing in the Modern Data Stack, improving 
 
 My recent research is in (mostly) applied and (sometimes) theoretical topics at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, committee member for several NLP events (ECONLP, ECNLP, EMNLP Industry) and I have published in top-tier venues and journals (NAACL, ACL, WWW, RecSys, etc.): our collaboration with Federico Bianchi on cognitively-inspired query embeddings won the Best Paper Award at NAACL 21. Some highlights include:
+I am co-organizer of SIGIR eCom, committee member for several NLP events (ECONLP, ECNLP, EMNLP Industry) and my work has been presented in venues such as NAACL, ACL, WWW, RecSys: our collaboration with Federico Bianchi on cognitively-inspired query embeddings won the Best Paper Award at NAACL 21. Some highlights include:
 
 * ["Does it come in black?" CLIP-like models are zero-shot recommenders](https://aclanthology.org/2022.ecnlp-1.22/) (ACL 22)
 * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/) (NAACL 21, Best Paper Award)
 * [Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction](https://aclanthology.org/2021.naacl-main.348/) (NAACL 21)
-* [The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/10.1145/3383313.3411477) (RecSys 2020)
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions as papers, projects or reviews to a bunch of topics outside of "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), urban studies, [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4).
 
