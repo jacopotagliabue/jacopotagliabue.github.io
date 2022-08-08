@@ -44,7 +44,7 @@ _Current interests_: multi-modal representations, making logic great again.
 
 ## Old stuff
 
-In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements").
+In previous lives, I managed to get a Ph.D., work for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements").
 
 _iSport_: some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led the first [attempt in Italy](public/isport_gazzetta.pdf) (and one of the first worldwide) of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/).
 
