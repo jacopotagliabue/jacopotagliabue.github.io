@@ -10,11 +10,9 @@ I am currently an Adj. Professor of ML at NYU, which is mostly notable because i
 
 ### Where is my mind?
 
-I share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [thoughts](https://medium.com/@jacopotagliabue), [homeworks](https://github.com/jacopotagliabue/FREE_7773) and [tweets](https://twitter.com/jacopotagliabue) (ORDER BY importance DESC); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/). Very recent announcements you may be looking for:
+I often share [code](https://github.com/jacopotagliabue), [papers](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [thoughts](https://medium.com/@jacopotagliabue), [homework](https://github.com/jacopotagliabue/FREE_7773) and [tweets](https://twitter.com/jacopotagliabue) (ORDER BY importance DESC); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
-* My latest open source work, [RecList](http://reclist.io/), got three sponsors to fund its development (I'm genuinely amazed and moved by how cool the MLOps community is).
-* My keynote at the _NVIDIA RecSys Summit 2022_ is now [available](https://youtu.be/9rouLchcC0k?t=147).
-* Join us at [CIKM 2022 EvalRS Challenge](https://reclist.io/cikm2022-cup/)!
+Selected talks, papers and datasets are highlighted (for the brave reader) [at the very end of this page](#appendix).
 
 ## Current stuff
 
@@ -32,7 +30,7 @@ _Current interests_: ML testing, developing in the Modern Data Stack, improving 
 
 My recent research is in (mostly) applied and (sometimes) theoretical topics at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, committee member for several NLP events (ECONLP, ECNLP, EMNLP Industry) and my work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our collaboration with Federico Bianchi on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21 (selected papers [below](#appendix)).
+I am co-organizer of SIGIR eCom, committee member for several NLP events (ECONLP, ECNLP, EMNLP Industry) and my work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our collaboration with Federico Bianchi on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions as papers, projects or reviews to a bunch of topics outside of "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), urban studies, [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4).
 
@@ -58,9 +56,9 @@ Last update: August 2022.
 
 Quick links to selected talks, papers, datasets.
 
-### Selected talks and presentations
+### Selected talks
 
-* [Recs at Reasonable Scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit, 07/22
+* [Recs at Reasonable Scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit_, 07/22
 * [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/2022 
 
 _TBC_
@@ -83,4 +81,4 @@ _TBC_
 * [SIGIR eCom Challenge 2021](https://github.com/coveooss/SIGIR-ecom-data-challenge), the [largest and most complete](https://arxiv.org/abs/2104.09423) session-based dataset of all time.
 * [Shopper Intent Prediction](https://github.com/coveooss/shopper-intent-prediction-nature-2020), from our [paper](https://www.nature.com/articles/s41598-020-73622-y.epdf?sharing_token=tydJezcxTZvP8cNEDsAKn9RgN0jAjWel9jnR3ZoTv0NoB1nwg3Wgf_mP0ktAdV_HGxUxXaNdBCErP1Zck0ibhFGwRrt0xq-Uy2wNz5DkwbFN44Mxzwb3WdN593RbqBFNucB9hEgd3EFvTZaqO9reUDDlh-mybSw5d1-G04RfdBQ%3D).
 
-Aside from papers, our datasets have been used by dozens of master students between Tillburg University and Politecnico in Milan.
+Aside from research and tutorials, our datasets have been successfully used by dozens of master students to defend their thesis at Tillburg University and Politecnico in Milan.
