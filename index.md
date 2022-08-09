@@ -4,7 +4,7 @@ Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founde
 
 I led Coveo's A.I. and MLOps roadmap through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Oxford, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford, Harvard Medical School) [ _yes_, you can invite me too, if you ask nicely! ].
+I talk _a lot_, and I'm [often invited](#appendix) to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford, Harvard Medical School) [ _yes_, you can invite me too, if you ask nicely! ].
 
 I am currently an Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
@@ -32,7 +32,7 @@ _Current interests_: ML testing, developing in the Modern Data Stack, improving 
 
 My recent research is in (mostly) applied and (sometimes) theoretical topics at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, committee member for several NLP events (ECONLP, ECNLP, EMNLP Industry) and my work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our collaboration with Federico Bianchi on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21 (selected papers [below](##appendix)).
+I am co-organizer of SIGIR eCom, committee member for several NLP events (ECONLP, ECNLP, EMNLP Industry) and my work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our collaboration with Federico Bianchi on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21 (selected papers [below](#appendix)).
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions as papers, projects or reviews to a bunch of topics outside of "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), urban studies, [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4).
 
@@ -56,7 +56,7 @@ Last update: August 2022.
 
 ## Appendix
 
-Selected links and materials by topic.
+Quick links to selected talks, papers, datasets.
 
 ### Selected talks and presentations
 
@@ -68,14 +68,19 @@ _TBC_
 ### Selected papers
 
 * ["Does it come in black?" CLIP-like models are zero-shot recommenders](https://aclanthology.org/2022.ecnlp-1.22/) (ECNLP ACL 2022)
+* [Beyond NDCG: behavioral testing of recommender systems with RecList](https://arxiv.org/abs/2111.09963) (WebConf 2022)
+* [You Do Not Need a Bigger Boat: Recommendations at Reasonable Scale in a (Mostly) Serverless and Open Stack](https://dl.acm.org/doi/abs/10.1145/3460231.3474604) (RecSys 2021)
+* [DAG Card is the new Model Card](https://arxiv.org/pdf/2110.13601.pdf) (DCAI NeurIPS 2021)
 * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/) (NAACL 2021, Best Paper Award)
 * [Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction](https://aclanthology.org/2021.naacl-main.348/) (NAACL 2021)
-
-_TBC_
+* [Shopper intent prediction from clickstream e-commerce data with minimal browsing information](https://www.nature.com/articles/s41598-020-73622-y.epdf?sharing_token=tydJezcxTZvP8cNEDsAKn9RgN0jAjWel9jnR3ZoTv0NoB1nwg3Wgf_mP0ktAdV_HGxUxXaNdBCErP1Zck0ibhFGwRrt0xq-Uy2wNz5DkwbFN44Mxzwb3WdN593RbqBFNucB9hEgd3EFvTZaqO9reUDDlh-mybSw5d1-G04RfdBQ%3D) (Nat. Sci. Rep. 2020)
+* [Shopping in the Multiverse: A Counterfactual Approach to In-Session Attribution](https://arxiv.org/pdf/2007.10087.pdf) (SIGIR eCom 2020, Oral Presentation)
+* [The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/10.1145/3383313.3411477) (RecSys 2020)
+* ["An Image is Worth a Thousand Features": Scalable Product Representations for In-Session Type-Ahead Personalization](https://dl.acm.org/doi/10.1145/3366424.3386198) (WebConf 2020)
 
 ### Datasets
 
 * [SIGIR eCom Challenge 2021](https://github.com/coveooss/SIGIR-ecom-data-challenge), the [largest and most complete](https://arxiv.org/abs/2104.09423) session-based dataset of all time.
-* [Shopper Intent Prediction](https://github.com/coveooss/shopper-intent-prediction-nature-2020), from our [Nat. Sci. Rep. paper](https://www.nature.com/articles/s41598-020-73622-y.epdf?sharing_token=tydJezcxTZvP8cNEDsAKn9RgN0jAjWel9jnR3ZoTv0NoB1nwg3Wgf_mP0ktAdV_HGxUxXaNdBCErP1Zck0ibhFGwRrt0xq-Uy2wNz5DkwbFN44Mxzwb3WdN593RbqBFNucB9hEgd3EFvTZaqO9reUDDlh-mybSw5d1-G04RfdBQ%3D).
+* [Shopper Intent Prediction](https://github.com/coveooss/shopper-intent-prediction-nature-2020), from our [paper](https://www.nature.com/articles/s41598-020-73622-y.epdf?sharing_token=tydJezcxTZvP8cNEDsAKn9RgN0jAjWel9jnR3ZoTv0NoB1nwg3Wgf_mP0ktAdV_HGxUxXaNdBCErP1Zck0ibhFGwRrt0xq-Uy2wNz5DkwbFN44Mxzwb3WdN593RbqBFNucB9hEgd3EFvTZaqO9reUDDlh-mybSw5d1-G04RfdBQ%3D).
 
 Aside from papers, our datasets have been used by dozens of master students between Tillburg University and Politecnico in Milan.
