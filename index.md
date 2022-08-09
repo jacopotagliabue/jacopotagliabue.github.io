@@ -4,13 +4,13 @@ Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founde
 
 I led Coveo's A.I. and MLOps roadmap through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Oxford, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I talk _a lot_, and I'm [often invited](#appendix) to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford, Harvard Medical School) [ _yes_, you can invite me too, if you ask nicely! ].
+I talk _a lot_, and I'm [often invited](#appendix) to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford, Harvard).
 
 I am currently an Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
 ### Where is my mind?
 
-I often share [code](https://github.com/jacopotagliabue), [papers](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [thoughts](https://medium.com/@jacopotagliabue), [homework](https://github.com/jacopotagliabue/FREE_7773) and [tweets](https://twitter.com/jacopotagliabue) (ORDER BY importance DESC); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
+I often share [code](https://github.com/jacopotagliabue), [papers](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [posts](https://medium.com/@jacopotagliabue), [homework](https://github.com/jacopotagliabue/FREE_7773) and [tweets](https://twitter.com/jacopotagliabue) (ORDER BY importance DESC); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
 Selected talks, papers and datasets are highlighted (for the brave reader) [at the very end of this page](#appendix).
 
@@ -20,9 +20,7 @@ Selected talks, papers and datasets are highlighted (for the brave reader) [at t
 
 I have an ongoing project with [Federico Bianchi](https://federicobianchi.io/) (and friends) on behavioral testing for recommender systems: [RecList](http://reclist.io/) spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), hours of English-with-an-Italian-accent (e.g. [this](https://www.youtube.com/watch?v=cAlJYxFYA04)), and a [paper](https://arxiv.org/abs/2111.09963) at WWW 2022.
 
-Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in most parts of the DataOps and MLops stack. To share my learnings, I introduced the concept of "reasonable scale ML" in a series of open source [repositories](https://github.com/jacopotagliabue/recs-at-resonable-scale) and [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) ("[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)").
-
-If you prefer videos, and you're done with all five seasons of Rick & Morty, my [Stanford MLSys Lecture](https://www.youtube.com/watch?v=Ndxpo4PeEms) and [NVIDIA keynote](https://youtu.be/9rouLchcC0k?t=147) are the best places to start. 
+Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in most parts of the DataOps and MLops stack. To share my learnings, I introduced the "reasonable scale ML" in a series of [repositories](https://github.com/jacopotagliabue/recs-at-resonable-scale) and [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) ("[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)").
 
 _Current interests_: ML testing, developing in the Modern Data Stack, improving SQL (?). 
 
@@ -58,10 +56,11 @@ Quick links to selected talks, papers, datasets.
 
 ### Selected talks
 
-* [Recs at Reasonable Scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit_, 07/22
+* [Recs at reasonable scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit_, 07/22
 * [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/2022 
-
-_TBC_
+* [I (don't) know what you did last summer](public/Lowe_Nov_2021.pdf), _Lowe's_, 11/21
+* [ML at reasonable scale](https://www.youtube.com/watch?v=Ndxpo4PeEms), _Stanford MLSys Lecture_, 07/21
+* [Not all those who browse are lost: few-shot and zero-shot personalization with deep architectures](https://www.youtube.com/watch?v=PFfSiE4CGPY), _Haystack_, 07/20
 
 ### Selected papers
 
