@@ -32,14 +32,11 @@ _Current interests_: ML testing, developing in the Modern Data Stack, improving 
 
 My recent research is in (mostly) applied and (sometimes) theoretical topics at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, committee member for several NLP events (ECONLP, ECNLP, EMNLP Industry) and my work has been presented in venues such as NAACL, ACL, WWW, RecSys: our collaboration with Federico Bianchi on cognitively-inspired query embeddings won the Best Paper Award at NAACL 21. Some highlights include:
-
-* [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/)
-* [Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction](https://aclanthology.org/2021.naacl-main.348/)
+I am co-organizer of SIGIR eCom, committee member for several NLP events (ECONLP, ECNLP, EMNLP Industry) and my work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our collaboration with Federico Bianchi on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21 (selected papers [below](##appendix)).
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions as papers, projects or reviews to a bunch of topics outside of "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), urban studies, [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4).
 
-_Current interests_: multi-modal representations, making logic great again. [More papers >>](#Appendix)
+_Current interests_: multi-modal representations, making logic great again.
 
 ## Old stuff
 
@@ -66,15 +63,19 @@ Selected links and materials by topic.
 * [Recs at Reasonable Scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit, 07/22
 * [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/2022 
 
+_TBC_
+
 ### Selected papers
 
 * ["Does it come in black?" CLIP-like models are zero-shot recommenders](https://aclanthology.org/2022.ecnlp-1.22/) (ECNLP ACL 2022)
 * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/) (NAACL 2021, Best Paper Award)
 * [Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction](https://aclanthology.org/2021.naacl-main.348/) (NAACL 2021)
 
+_TBC_
+
 ### Datasets
 
-* [SIGIR eCom Challenge 2021](https://github.com/coveooss/SIGIR-ecom-data-challenge), the [largest and most complete](https://arxiv.org/abs/2104.09423) session-based dataset of all time
-* [Shopper Intent Prediction](https://github.com/coveooss/shopper-intent-prediction-nature-2020), from our [Nat. Sci. Rep. paper](https://www.nature.com/articles/s41598-020-73622-y.epdf?sharing_token=tydJezcxTZvP8cNEDsAKn9RgN0jAjWel9jnR3ZoTv0NoB1nwg3Wgf_mP0ktAdV_HGxUxXaNdBCErP1Zck0ibhFGwRrt0xq-Uy2wNz5DkwbFN44Mxzwb3WdN593RbqBFNucB9hEgd3EFvTZaqO9reUDDlh-mybSw5d1-G04RfdBQ%3D)
+* [SIGIR eCom Challenge 2021](https://github.com/coveooss/SIGIR-ecom-data-challenge), the [largest and most complete](https://arxiv.org/abs/2104.09423) session-based dataset of all time.
+* [Shopper Intent Prediction](https://github.com/coveooss/shopper-intent-prediction-nature-2020), from our [Nat. Sci. Rep. paper](https://www.nature.com/articles/s41598-020-73622-y.epdf?sharing_token=tydJezcxTZvP8cNEDsAKn9RgN0jAjWel9jnR3ZoTv0NoB1nwg3Wgf_mP0ktAdV_HGxUxXaNdBCErP1Zck0ibhFGwRrt0xq-Uy2wNz5DkwbFN44Mxzwb3WdN593RbqBFNucB9hEgd3EFvTZaqO9reUDDlh-mybSw5d1-G04RfdBQ%3D).
 
 Aside from papers, our datasets have been used by dozens of master students between Tillburg University and Politecnico in Milan.
