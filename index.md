@@ -52,7 +52,7 @@ Last update: August 2022.
 
 ## Appendix
 
-Quick links to selected talks, papers, datasets.
+Quick links to selected talks, papers, datasets: if there's a paper, talk, slide deck you know I have, but you can't find it (here or elsewhere), please do get in touch directly.
 
 ### Selected talks
 
