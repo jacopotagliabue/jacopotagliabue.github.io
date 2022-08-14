@@ -57,6 +57,7 @@ Quick links to selected talks, papers, datasets: if there's a paper, talk, slide
 ### Selected talks
 
 * [Mo' models, mo' problems: CLIP-like models and generalization in modern e-commerce platforms](public/kdd_final_2022_keynote.pdf), _KDD 2022 (Invited Talk)_, 08/22
+* [Are we there yet? Meaning in the age of large language models](public/are_we_there_yet.pdf), _CiE 2022 (Invited Talk)_, 07/22
 * [Recs at reasonable scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit_, 07/22
 * [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/2022 
 * [I (don't) know what you did last summer](public/Lowe_Nov_2021.pdf), _Lowe's_, 11/21
