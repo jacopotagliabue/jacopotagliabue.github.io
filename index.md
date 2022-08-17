@@ -2,9 +2,9 @@
 
 Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
-I led Coveo's A.I. and MLOps roadmap through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Oxford, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
+I led Coveo's A.I. and MLOps roadmap from scale-up to IPO through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I talk _a lot_, and I'm [often invited](#appendix) to do so by folks in industry (BBC, Walmart, Pinterest, Tubi, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford, Harvard).
+I talk _a lot_, and I'm [often invited](#appendix) to do so by folks in industry (BBC, Walmart, Pinterest, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford).
 
 I am currently an Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
@@ -28,7 +28,7 @@ _Current interests_: ML testing, developing in the Modern Data Stack, improving 
 
 My recent research is in (mostly) applied and (sometimes) theoretical topics at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, committee member for several NLP events (ECONLP, ECNLP, EMNLP Industry) and my work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our collaboration with Federico Bianchi on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I am co-organizer of SIGIR eCom, I've been involved in several NLP events in various roles (COLING, ECONLP, ECNLP, EMNLP) and my work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our work on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions as papers, projects or reviews to a bunch of topics outside of "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), urban studies, [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4).
 
