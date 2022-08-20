@@ -2,7 +2,7 @@
 
 Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
-I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an applied R&D practice rooted in word-class collaborations (Stanford, Bocconi, Uber, Microsoft, NVIDIA), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
+I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an agile, applied R&D practice rooted in word-class collaborations (Stanford, Bocconi, Outerbounds, Uber, Microsoft, NVIDIA), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
 I talk _a lot_, and I'm [often invited](#appendix) to do so by folks in industry (BBC, Walmart, Pinterest, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford).
 
