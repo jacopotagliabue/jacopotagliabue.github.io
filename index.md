@@ -2,7 +2,7 @@
 
 Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
-I led Coveo's A.I. and MLOps roadmap from scale-up to IPO through _Coveo Labs_, an applied R&D practice and a network of word-class collaborations (Stanford, Bocconi, Uber, Microsoft, NVIDIA) built on [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
+I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an applied R&D practice rooted in word-class collaborations (Stanford, Bocconi, Uber, Microsoft, NVIDIA), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
 I talk _a lot_, and I'm [often invited](#appendix) to do so by folks in industry (BBC, Walmart, Pinterest, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford).
 
@@ -18,7 +18,7 @@ Selected talks, papers and datasets are highlighted (for the brave reader) [at t
 
 ### RecList and MLOps "at reasonable scale"
 
-I have an ongoing project with [Federico Bianchi](https://federicobianchi.io/) (and friends) on behavioral testing for recommender systems: [RecList](http://reclist.io/) spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), hours of English-with-an-Italian-accent (e.g. [this](https://www.youtube.com/watch?v=cAlJYxFYA04)), and a [paper](https://arxiv.org/abs/2111.09963) at WWW 2022.
+I have an ongoing project with [Federico Bianchi](https://federicobianchi.io/) (and friends) on behavioral testing for recommender systems: [RecList](http://reclist.io/) spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), hours of English-with-an-Italian-accent (e.g. [this](https://www.youtube.com/watch?v=cAlJYxFYA04)), and a [paper](https://arxiv.org/abs/2111.09963) at WWW 2022. [RecList](http://reclist.io/) successfully raised funds from MLOps companies to sponsor its open development.
 
 Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in most parts of the DataOps and MLops stack. To share my learnings, I introduced the "reasonable scale ML" in a series of [repositories](https://github.com/jacopotagliabue/recs-at-resonable-scale) and [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) ("[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)").
 
