@@ -18,7 +18,7 @@ Selected talks, papers and datasets are highlighted (for the brave reader) [at t
 
 ### RecList and MLOps "at reasonable scale"
 
-I have an ongoing project with [Federico Bianchi](https://federicobianchi.io/) (and friends) on behavioral testing for recommender systems: [RecList](http://reclist.io/) spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), hours of English-with-an-Italian-accent (e.g. [this](https://www.youtube.com/watch?v=cAlJYxFYA04)), and a [paper](https://arxiv.org/abs/2111.09963) at WWW 2022. [RecList](http://reclist.io/) successfully raised funds from MLOps companies to sponsor its open development.
+I have an ongoing project with [Federico Bianchi](https://federicobianchi.io/) (and friends) on behavioral testing for recommender systems: [RecList](http://reclist.io/) spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), hours of English-with-an-Italian-accent (e.g. [this](https://www.youtube.com/watch?v=cAlJYxFYA04)), and a [paper](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) at WWW 2022. [RecList](http://reclist.io/) successfully raised funds from MLOps companies to sponsor its open development.
 
 Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in most parts of the DataOps and MLops stack. To share my learnings, I introduced the "reasonable scale ML" in a series of [repositories](https://github.com/jacopotagliabue/recs-at-resonable-scale) and [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) ("[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)").
 
@@ -67,7 +67,7 @@ Quick links to selected talks, papers, datasets: if there's a paper, talk, slide
 ### Selected papers
 
 * ["Does it come in black?" CLIP-like models are zero-shot recommenders](https://aclanthology.org/2022.ecnlp-1.22/) (ECNLP ACL 2022)
-* [Beyond NDCG: behavioral testing of recommender systems with RecList](https://arxiv.org/abs/2111.09963) (WebConf 2022)
+* [Beyond NDCG: behavioral testing of recommender systems with RecList](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) ([arxiv](https://arxiv.org/abs/2111.09963)) (WebConf 2022)
 * [You Do Not Need a Bigger Boat: Recommendations at Reasonable Scale in a (Mostly) Serverless and Open Stack](https://dl.acm.org/doi/abs/10.1145/3460231.3474604) (RecSys 2021)
 * [DAG Card is the new Model Card](https://arxiv.org/pdf/2110.13601.pdf) (DCAI NeurIPS 2021)
 * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/) (NAACL 2021, Best Paper Award)
