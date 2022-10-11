@@ -2,15 +2,15 @@
 
 Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
-I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an agile, applied R&D practice rooted in word-class collaborations (Stanford, Bocconi, Outerbounds, Uber, Microsoft, NVIDIA), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
+I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an applied R&D practice rooted in word-class collaborations (Stanford, Bocconi, Outerbounds, Uber, Microsoft, NVIDIA), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I talk _a lot_, and I'm [often invited](#appendix) to do so by folks in industry (BBC, Walmart, Pinterest, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford).
+I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford).
 
 I am currently an Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
 ### Where is my mind?
 
-I often share [code](https://github.com/jacopotagliabue), [papers](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [posts](https://medium.com/@jacopotagliabue), [homework](https://github.com/jacopotagliabue/FREE_7773) and [tweets](https://twitter.com/jacopotagliabue) (ORDER BY importance DESC); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
+I often share [code](https://github.com/jacopotagliabue), [papers](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [posts](https://medium.com/@jacopotagliabue), [homework](https://github.com/jacopotagliabue/FREE_7773); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
 Selected talks, papers and datasets are highlighted (for the brave reader) [at the very end of this page](#appendix).
 
@@ -20,15 +20,15 @@ Selected talks, papers and datasets are highlighted (for the brave reader) [at t
 
 I have an ongoing project with [Federico Bianchi](https://federicobianchi.io/) (and friends) on behavioral testing for recommender systems: [RecList](http://reclist.io/) spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), hours of English-with-an-Italian-accent (e.g. [this](https://www.youtube.com/watch?v=cAlJYxFYA04)), and a [paper](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) at WWW 2022. [RecList](http://reclist.io/) successfully raised funds from MLOps companies to sponsor its open development.
 
-Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in most parts of the DataOps and MLops stack. To share my learnings, I introduced the "reasonable scale ML" in a series of [repositories](https://github.com/jacopotagliabue/recs-at-resonable-scale) and [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) ("[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)").
+Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in DataOps and MLops. To share my learnings, I introduced the "reasonable scale ML" in a series of [repositories](https://github.com/jacopotagliabue/recs-at-resonable-scale) and [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) ("[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)").
 
-_Current interests_: ML testing, developing in the Modern Data Stack, improving SQL (?). 
+_Current interests_: ML testing, developing in the Modern Data Stack. 
 
 ### A.I. research
 
 My recent research is in (mostly) applied and (sometimes) theoretical topics at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, I've been involved in several NLP events in various roles (COLING, ECONLP, ECNLP, EMNLP) and my work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our work on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in organizing many NLP events (COLING, ECONLP, ECNLP, EMNLP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our work on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions as papers, projects or reviews to a bunch of topics outside of "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), urban studies, [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4).
 
@@ -41,8 +41,6 @@ In previous lives, I managed to get a Ph.D., work for a professional basketball 
 _iSport_: some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led the first [attempt in Italy](public/isport_gazzetta.pdf) (and one of the first worldwide) of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/).
 
 _pedalaMI_: I led the first data analysis and [vizualization](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf), which received plenty of [press](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) coverage. No bikers (and no bureaucrats) were harmed for the project.
-
-_SEP_: together with [Franz Berto](https://www.st-andrews.ac.uk/philosophy/people/fb96) I'm a proud author of [Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/) on the Stanford Encyclopedia, "the most interesting website [on the internet](https://qz.com/480741/this-free-online-encyclopedia-has-achieved-what-wikipedia-can-only-dream-of/)" (or not).
 
 ## About this page
 
@@ -76,6 +74,7 @@ Quick links to selected talks, papers, datasets: if there's a paper, talk, slide
 * [Shopping in the Multiverse: A Counterfactual Approach to In-Session Attribution](https://arxiv.org/pdf/2007.10087.pdf) (SIGIR eCom 2020, Oral Presentation)
 * [The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/10.1145/3383313.3411477) (RecSys 2020)
 * ["An Image is Worth a Thousand Features": Scalable Product Representations for In-Session Type-Ahead Personalization](https://dl.acm.org/doi/10.1145/3366424.3386198) (WebConf 2020)
+* [Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/) (SEP 2017) 
 
 ### Datasets
 
