@@ -18,7 +18,7 @@ Selected talks, papers and datasets are highlighted (for the brave reader) [at t
 
 ### RecList and MLOps "at reasonable scale"
 
-I have an ongoing project with [Federico Bianchi](https://federicobianchi.io/) (and friends) on behavioral testing for recommender systems: [RecList](http://reclist.io/) spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), hours of English-with-an-Italian-accent (e.g. [this](https://www.youtube.com/watch?v=cAlJYxFYA04)), and a [paper](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) at WWW 2022. [RecList](http://reclist.io/) successfully raised funds from MLOps companies to sponsor its open development.
+[RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), hours of English-with-an-Italian-accent (e.g. [this](https://www.youtube.com/watch?v=cAlJYxFYA04)), and a [paper](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) at WWW 2022. RecList successfully raised funds from MLOps companies to sponsor its open development.
 
 Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in DataOps and MLops. To share my learnings, I introduced the "reasonable scale ML" in a series of [repositories](https://github.com/jacopotagliabue/recs-at-resonable-scale) and [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) ("[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)").
 
@@ -56,8 +56,9 @@ Quick links to selected talks, papers, datasets: if there's a paper, talk, slide
 
 * [Mo' models, mo' problems: CLIP-like models and generalization in modern e-commerce platforms](public/kdd_final_2022_keynote.pdf), _KDD 2022 (Invited Talk)_, 08/22
 * [Are we there yet? Meaning in the age of large language models](public/are_we_there_yet.pdf), _CiE 2022 (Invited Talk)_, 07/22
-* [Recs at reasonable scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit_, 07/22
-* [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/2022 
+* [Recs at reasonable scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit (Keynote)_, 07/22
+* [Wild Wild Tests](public/Wild_Wild_Tests_MLOPS_World_2022.pdf), _MLOps World_, 06/22
+* [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/22 
 * [I (don't) know what you did last summer](public/Lowe_Nov_2021.pdf), _Lowe's_, 11/21
 * [ML at reasonable scale](https://www.youtube.com/watch?v=Ndxpo4PeEms), _Stanford MLSys Lecture_, 07/21
 * [Not all those who browse are lost: few-shot and zero-shot personalization with deep architectures](https://www.youtube.com/watch?v=PFfSiE4CGPY), _Haystack_, 07/20
