@@ -65,6 +65,7 @@ Quick links to selected talks, papers, datasets: if there's a paper, talk, slide
 
 ### Selected papers
 
+* [Contrastive language and vision learning of general fashion concepts](https://www.nature.com/articles/s41598-022-23052-9) (Nat. Sci. Rep. 2022)
 * ["Does it come in black?" CLIP-like models are zero-shot recommenders](https://aclanthology.org/2022.ecnlp-1.22/) (ECNLP ACL 2022)
 * [Beyond NDCG: behavioral testing of recommender systems with RecList](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) ([arxiv](https://arxiv.org/abs/2111.09963)) (WebConf 2022)
 * [You Do Not Need a Bigger Boat: Recommendations at Reasonable Scale in a (Mostly) Serverless and Open Stack](https://dl.acm.org/doi/abs/10.1145/3460231.3474604) (RecSys 2021)
