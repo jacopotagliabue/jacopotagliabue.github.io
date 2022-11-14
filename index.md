@@ -6,7 +6,7 @@ I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo 
 
 I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford).
 
-I am currently an Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
+I'm currently a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
 ### Where is my mind?
 
