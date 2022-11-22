@@ -2,7 +2,7 @@
 
 Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
-I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an applied R&D practice rooted in word-class collaborations (Stanford, Bocconi, Outerbounds, Uber, Microsoft, NVIDIA), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
+I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in word-class collaborations (Stanford, Bocconi, Outerbounds, Uber, Microsoft, NVIDIA), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
 I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford).
 
@@ -18,9 +18,9 @@ Selected talks, papers and datasets are highlighted (for the brave reader) [at t
 
 ### RecList and MLOps "at reasonable scale"
 
-[RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), hours of English-with-an-Italian-accent (e.g. [this](https://www.youtube.com/watch?v=cAlJYxFYA04)), and a [paper](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) at WWW 2022. RecList successfully raised funds from MLOps companies to sponsor its open development.
+[RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), and a [paper](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) at WWW 2022. RecList successfully raised funds from MLOps companies to sponsor its open development.
 
-Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in DataOps and MLops. To share my learnings, I introduced the "reasonable scale ML" in a series of [repositories](https://github.com/jacopotagliabue/recs-at-resonable-scale) and [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) ("[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)").
+Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in DataOps and MLops. To share my learnings, I introduced the _Reasonable Scale_ ML in "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" (and  related [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops)).
 
 _Current interests_: ML testing, developing in the Modern Data Stack. 
 
@@ -30,17 +30,17 @@ My recent research is in (mostly) applied and (sometimes) theoretical topics at 
 
 I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in organizing many NLP events (COLING, ECONLP, ECNLP, EMNLP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our work on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions as papers, projects or reviews to a bunch of topics outside of "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), urban studies, [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4).
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions as papers, projects or reviews to a bunch of topics outside "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), urban studies, [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4).
 
-_Current interests_: multi-modal representations, making logic great again.
+_Current interests_: multi-modal representations.
 
 ## Old stuff
 
-In previous lives, I managed to get a Ph.D., work for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements").
+In previous lives, I managed to get a Ph.D., work for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). 
 
-_iSport_: some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led the first [attempt in Italy](public/isport_gazzetta.pdf) (and one of the first worldwide) of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/).
+Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led the first [attempt in Italy](public/isport_gazzetta.pdf) of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/). 
 
-_pedalaMI_: I led the first data analysis and [vizualization](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf), which received plenty of [press](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) coverage. No bikers (and no bureaucrats) were harmed for the project.
+I also led the first data analysis and [vizualization](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf), which received plenty of [press](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) coverage. No bikers (and no bureaucrats) were harmed for the project.
 
 ## About this page
 
