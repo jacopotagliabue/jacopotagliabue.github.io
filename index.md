@@ -72,10 +72,7 @@ Quick links to selected talks, papers, datasets: if there's a paper, talk, slide
 * [DAG Card is the new Model Card](https://arxiv.org/pdf/2110.13601.pdf) (DCAI NeurIPS 2021)
 * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/) (NAACL 2021, Best Paper Award)
 * [Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction](https://aclanthology.org/2021.naacl-main.348/) (NAACL 2021)
-* [Shopper intent prediction from clickstream e-commerce data with minimal browsing information](https://www.nature.com/articles/s41598-020-73622-y.epdf?sharing_token=tydJezcxTZvP8cNEDsAKn9RgN0jAjWel9jnR3ZoTv0NoB1nwg3Wgf_mP0ktAdV_HGxUxXaNdBCErP1Zck0ibhFGwRrt0xq-Uy2wNz5DkwbFN44Mxzwb3WdN593RbqBFNucB9hEgd3EFvTZaqO9reUDDlh-mybSw5d1-G04RfdBQ%3D) (Nat. Sci. Rep. 2020)
-* [Shopping in the Multiverse: A Counterfactual Approach to In-Session Attribution](https://arxiv.org/pdf/2007.10087.pdf) (SIGIR eCom 2020, Oral Presentation)
 * [The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/10.1145/3383313.3411477) (RecSys 2020)
-* ["An Image is Worth a Thousand Features": Scalable Product Representations for In-Session Type-Ahead Personalization](https://dl.acm.org/doi/10.1145/3366424.3386198) (WebConf 2020)
 * [Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/) (SEP 2017) 
 
 ### Datasets
