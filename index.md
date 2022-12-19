@@ -2,17 +2,15 @@
 
 Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
-I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in word-class collaborations (Stanford, Bocconi, Outerbounds, Uber, Microsoft, NVIDIA), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
+I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (with Stanford, Outerbounds, Uber, Microsoft, NVIDIA etc.), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I talk _a lot_, and I'm often invited to do so by folks in industry (BBC, Walmart, Pinterest, eBay, Farfetch) and academia (SIRIP, CiE, KDD, Stanford).
-
-I'm currently a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
+I'm currently a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
 ### Where is my mind?
 
-I often share [code](https://github.com/jacopotagliabue), [papers](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), [posts](https://medium.com/@jacopotagliabue), [homework](https://github.com/jacopotagliabue/FREE_7773); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
+I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en) and [teaching material](https://github.com/jacopotagliabue/MLSys-NYU-2022); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
-Selected talks, papers and datasets are highlighted (for the brave reader) [at the very end of this page](#appendix).
+I talk _a lot_, and I am often asked to do so in industry (BBC, Walmart, Pinterest, eBay, Farfetch, etc.) and academia (SIRIP, CiE, KDD, Stanford, etc.): popular talks, papers and datasets are highlighted (for the brave reader) [at the very end of this page](#appendix).
 
 ## Current stuff
 
@@ -28,9 +26,9 @@ _Current interests_: ML testing, developing in the Modern Data Stack.
 
 My recent research is in (mostly) applied and (sometimes) theoretical topics at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in organizing many NLP events (COLING, ECONLP, ECNLP, EMNLP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477): our work on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in organizing many NLP events (COLING, ECONLP, ECNLP, EMNLP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our work on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions as papers, projects or reviews to a bunch of topics outside "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), urban studies, [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4).
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions to a bunch of topics outside "traditional A.I.": archeology, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), political science.
 
 _Current interests_: multi-modal representations.
 
@@ -38,7 +36,7 @@ _Current interests_: multi-modal representations.
 
 In previous lives, I managed to get a Ph.D., work for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). 
 
-Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led the first [attempt in Italy](public/isport_gazzetta.pdf) of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/). 
+Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led one of the first [attempts](public/isport_gazzetta.pdf) of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/). 
 
 I also led the first data analysis and [vizualization](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf), which received plenty of [press](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) coverage. No bikers (and no bureaucrats) were harmed for the project.
 
@@ -46,7 +44,7 @@ I also led the first data analysis and [vizualization](https://vimeo.com/7466434
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: August 2022. 
+Last update: December 2022. 
 
 ## Appendix
 
