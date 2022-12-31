@@ -2,7 +2,7 @@
 
 Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
-I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (with Stanford, Outerbounds, Uber, Microsoft, NVIDIA etc.), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
+I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Bocconi](https://dl.acm.org/doi/10.1145/3383313.3411477), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://arxiv.org/abs/2207.05772)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
 I'm currently a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
@@ -67,10 +67,8 @@ Quick links to selected talks, papers, datasets: if there's a paper, talk, slide
 * ["Does it come in black?" CLIP-like models are zero-shot recommenders](https://aclanthology.org/2022.ecnlp-1.22/) (ECNLP ACL 2022)
 * [Beyond NDCG: behavioral testing of recommender systems with RecList](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) ([arxiv](https://arxiv.org/abs/2111.09963)) (WebConf 2022)
 * [You Do Not Need a Bigger Boat: Recommendations at Reasonable Scale in a (Mostly) Serverless and Open Stack](https://dl.acm.org/doi/abs/10.1145/3460231.3474604) (RecSys 2021)
-* [DAG Card is the new Model Card](https://arxiv.org/pdf/2110.13601.pdf) (DCAI NeurIPS 2021)
 * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/) (NAACL 2021, Best Paper Award)
 * [Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction](https://aclanthology.org/2021.naacl-main.348/) (NAACL 2021)
-* [The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/10.1145/3383313.3411477) (RecSys 2020)
 * [Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/) (SEP 2017) 
 
 ### Datasets
