@@ -2,9 +2,9 @@
 
 Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
-I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Bocconi](https://dl.acm.org/doi/10.1145/3383313.3411477), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://arxiv.org/abs/2207.05772)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
+I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Bocconi](https://dl.acm.org/doi/10.1145/3383313.3411477), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://www.nature.com/articles/s42256-022-00606-0)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I'm currently a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
+I'm currently a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
 
 ### Where is my mind?
 
@@ -16,7 +16,7 @@ I talk _a lot_, and I am often asked to do so in industry (BBC, Walmart, Pintere
 
 ### RecList and MLOps "at reasonable scale"
 
-[RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), and a [paper](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) at WWW 2022. RecList successfully raised funds from MLOps companies to sponsor its open development.
+[RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), and and few papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0). RecList successfully raised funds from MLOps companies to sponsor its open development.
 
 Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in DataOps and MLops. To share my learnings, I introduced the _Reasonable Scale_ ML in "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" (and  related [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops)).
 
@@ -63,9 +63,9 @@ Quick links to selected talks, papers, datasets: if there's a paper, talk, slide
 
 ### Selected papers
 
+* [A challenge for rounded evaluation of recommender systems](https://www.nature.com/articles/s42256-022-00606-0) (Nat. Mach. Int. 2023)
 * [Contrastive language and vision learning of general fashion concepts](https://www.nature.com/articles/s41598-022-23052-9) (Nat. Sci. Rep. 2022)
-* ["Does it come in black?" CLIP-like models are zero-shot recommenders](https://aclanthology.org/2022.ecnlp-1.22/) (ECNLP ACL 2022)
-* [Beyond NDCG: behavioral testing of recommender systems with RecList](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) ([arxiv](https://arxiv.org/abs/2111.09963)) (WebConf 2022)
+* [Beyond NDCG: behavioral testing of recommender systems with RecList](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) (WebConf 2022)
 * [You Do Not Need a Bigger Boat: Recommendations at Reasonable Scale in a (Mostly) Serverless and Open Stack](https://dl.acm.org/doi/abs/10.1145/3460231.3474604) (RecSys 2021)
 * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/) (NAACL 2021, Best Paper Award)
 * [Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction](https://aclanthology.org/2021.naacl-main.348/) (NAACL 2021)
