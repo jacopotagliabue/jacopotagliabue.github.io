@@ -4,7 +4,7 @@ Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founde
 
 I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Bocconi](https://dl.acm.org/doi/10.1145/3383313.3411477), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://www.nature.com/articles/s42256-022-00606-0)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I'm currently a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
+I'm currently a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
 ### Where is my mind?
 
@@ -12,13 +12,15 @@ I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https:/
 
 I talk _a lot_, and I am often asked to do so in industry (BBC, Walmart, Pinterest, eBay, Farfetch, etc.) and academia (SIRIP, CiE, KDD, Stanford, etc.): popular talks, papers and datasets are highlighted (for the brave reader) [at the very end of this page](#appendix).
 
+I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
+
 ## Current stuff
 
 ### RecList and MLOps "at reasonable scale"
 
-[RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a popular [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), and and few papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0). RecList successfully raised funds from MLOps companies to sponsor its open development.
+[RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), and few papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0)).
 
-Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes in DataOps and MLops. To share my learnings, I introduced the _Reasonable Scale_ ML in "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" (and  related [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops)).
+Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes. To share my learnings, I introduced the _Reasonable Scale_ ML in "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" (and  related [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops)).
 
 _Current interests_: ML testing, developing in the Modern Data Stack. 
 
