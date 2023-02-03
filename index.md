@@ -30,7 +30,7 @@ My recent research is in (mostly) applied and (sometimes) theoretical topics at 
 
 I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in organizing many NLP events (COLING, ECONLP, ECNLP, EMNLP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our work on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions to a bunch of topics outside "traditional A.I.": archeology, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), political science.
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions to a bunch of topics outside "traditional A.I.": archeology, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.researchgate.net/publication/367524368_Voting_fast_and_slow_Ballot_order_and_likeability_effects_in_the_Five_Star_Movement's_2012_online_primary_election).
 
 _Current interests_: multi-modal representations.
 
