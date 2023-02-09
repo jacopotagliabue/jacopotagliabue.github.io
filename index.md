@@ -4,7 +4,9 @@ Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founde
 
 I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://rdcu.be/c4dXy)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-Having built end-to-end pipelines at garage, growth and IPO scale, I happily shared all my mistakes on _Reasonable Scale_ data systems in a series of [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) and repos. I'm a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. 
+Having built end-to-end data pipelines at garage, growth and IPO scale, I happily shared all my mistakes at _Reasonable Scale_ in a series of [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops). 
+
+I'm a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. 
 
 I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
 
