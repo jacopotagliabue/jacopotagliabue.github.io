@@ -4,27 +4,27 @@ Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founde
 
 I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://rdcu.be/c4dXy)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-Having built end-to-end systems at garage, growth and IPO scale, I had the privilege of making a lot of mistakes: I shared my learnings on _Reasonable Scale_ Machine Learning in a series of [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) and repos.
+Having built end-to-end pipelines at garage, growth and IPO scale, I happily shared all my mistakes on _Reasonable Scale_ data systems in a series of [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) and repos. I'm a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. 
 
-I'm a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
+I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
 
 ### Where is my mind?
 
 I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en) and [teaching materials](https://github.com/jacopotagliabue/MLSys-NYU-2022); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
-I talk _a lot_, and I'm sometimes asked to do so both by friends in industry - from startups to Fortune 500 - and academia: popular projects and papers are highlighted (for the brave reader) [at the end of this page](#appendix).
+I talk _a lot_, and I'm sometimes asked to do so by friends in industry - from startups to Fortune 500 - and academia: popular projects and papers are highlighted (for readers with insomnia) [at the end of this page](#appendix).
 
 ### A.I. research
 
-My recent research is in (mostly) applied and (sometimes) theoretical topics at the intersection of language, learning and retrieval. 
+My recent research sits at the intersection of language, learning and retrieval. 
 
 I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in many NLP and IR events (COLING, ECONLP, ECNLP, EMNLP, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions to a bunch of topics outside "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.researchgate.net/publication/367524368_Voting_fast_and_slow_Ballot_order_and_likeability_effects_in_the_Five_Star_Movement's_2012_online_primary_election).
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.researchgate.net/publication/367524368_Voting_fast_and_slow_Ballot_order_and_likeability_effects_in_the_Five_Star_Movement's_2012_online_primary_election).
 
 ## Old stuff
 
-In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). 
+In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization and give an academic talk on videogames. 
 
 Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led one of the first [attempts](public/isport_gazzetta.pdf) of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/). 
 
@@ -42,8 +42,8 @@ Quick links to selected projects, talks, papers, datasets: if there's a paper, t
 
 ### Selected open source projects
 
-* [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), and few papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM Workshop](https://ceur-ws.org/Vol-3318/keynote3.pdf)).
-* "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is a (very opinionated) introduction to modern pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021. A simpler setup, based on the same principles, can be found in the [Post-Modern Data Stack](https://github.com/jacopotagliabue/post-modern-stack) project.
+* [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [competition](https://reclist.io/cikm2022-cup/), and three papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM](https://ceur-ws.org/Vol-3318/keynote3.pdf)).
+* "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is an introduction to modern pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021. A simpler setup with the same principles can be found in the [Post-Modern Data Stack](https://github.com/jacopotagliabue/post-modern-stack) project.
 
 ### Selected talks
 
