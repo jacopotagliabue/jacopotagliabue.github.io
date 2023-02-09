@@ -10,7 +10,7 @@ I'm currently a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/)
 
 I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en) and [teaching material](https://github.com/jacopotagliabue/MLSys-NYU-2022); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
-I talk _a lot_, and I am often asked to do so in industry (BBC, Walmart, Pinterest, eBay, Farfetch, etc.) and academia (SIRIP, CiE, KDD, Stanford, etc.): popular talks, papers and datasets are highlighted (for the brave reader) [at the very end of this page](#appendix).
+I talk _a lot_, and I am often asked to do so in industry (BBC, Walmart, Pinterest, eBay, Farfetch) and academia (CiE, KDD, Stanford): popular talks, papers and datasets are highlighted (for the brave reader) [at the very end of this page](#appendix).
 
 I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
 
@@ -28,15 +28,15 @@ _Current interests_: ML testing, developing in the Modern Data Stack.
 
 My recent research is in (mostly) applied and (sometimes) theoretical topics at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in organizing many NLP events (COLING, ECONLP, ECNLP, EMNLP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our work on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in many NLP and IR events (COLING, ECONLP, ECNLP, EMNLP, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions to a bunch of topics outside "traditional A.I.": archeology, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.researchgate.net/publication/367524368_Voting_fast_and_slow_Ballot_order_and_likeability_effects_in_the_Five_Star_Movement's_2012_online_primary_election).
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions to a bunch of topics outside "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.researchgate.net/publication/367524368_Voting_fast_and_slow_Ballot_order_and_likeability_effects_in_the_Five_Star_Movement's_2012_online_primary_election).
 
 _Current interests_: multi-modal representations.
 
 ## Old stuff
 
-In previous lives, I managed to get a Ph.D., work for a professional basketball team, simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). 
+In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization and give an academic talk on videogames (among others improbable "achievements"). 
 
 Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led one of the first [attempts](public/isport_gazzetta.pdf) of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/). 
 
@@ -57,7 +57,6 @@ Quick links to selected talks, papers, datasets: if there's a paper, talk, slide
 * [Mo' models, mo' problems: CLIP-like models and generalization in modern e-commerce platforms](public/kdd_final_2022_keynote.pdf), _KDD 2022 (Invited Talk)_, 08/22
 * [Are we there yet? Meaning in the age of large language models](public/are_we_there_yet.pdf), _CiE 2022 (Invited Talk)_, 07/22
 * [Recs at reasonable scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit (Keynote)_, 07/22
-* [Wild Wild Tests](public/Wild_Wild_Tests_MLOPS_World_2022.pdf), _MLOps World_, 06/22
 * [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/22 
 * [I (don't) know what you did last summer](public/Lowe_Nov_2021.pdf), _Lowe's_, 11/21
 * [ML at reasonable scale](https://www.youtube.com/watch?v=Ndxpo4PeEms), _Stanford MLSys Lecture_, 07/21
