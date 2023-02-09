@@ -2,27 +2,17 @@
 
 Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
-I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Bocconi](https://dl.acm.org/doi/10.1145/3383313.3411477), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://rdcu.be/c4dXy)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
+I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://rdcu.be/c4dXy)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I'm currently a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
+Having built end-to-end systems at garage, growth and IPO scale, I had the privilege of making a lot of mistakes: I shared my learnings on _Reasonable Scale_ Machine Learning in a series of [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) and repos.
+
+I'm a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
 
 ### Where is my mind?
 
-I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en) and [teaching material](https://github.com/jacopotagliabue/MLSys-NYU-2022); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
+I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en) and [teaching materials](https://github.com/jacopotagliabue/MLSys-NYU-2022); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
-I talk _a lot_, and I am often asked to do so in industry (BBC, Walmart, Pinterest, eBay, Farfetch) and academia (CiE, KDD, Stanford): popular talks, papers and datasets are highlighted (for the brave reader) [at the very end of this page](#appendix).
-
-I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
-
-## Current stuff
-
-### RecList and MLOps "at reasonable scale"
-
-[RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), and few papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0)).
-
-Having built end-to-end systems at garage, scale-up and IPO scale, I had the privilege of making a lot of mistakes. To share my learnings, I introduced the _Reasonable Scale_ ML in "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" (and  related [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops)).
-
-_Current interests_: ML testing, developing in the Modern Data Stack. 
+I talk _a lot_, and I'm sometimes asked to do so both by friends in industry - from startups to Fortune 500 - and academia: popular projects and papers are highlighted (for the brave reader) [at the end of this page](#appendix).
 
 ### A.I. research
 
@@ -31,8 +21,6 @@ My recent research is in (mostly) applied and (sometimes) theoretical topics at 
 I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in many NLP and IR events (COLING, ECONLP, ECNLP, EMNLP, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave small contributions to a bunch of topics outside "traditional A.I.": computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.researchgate.net/publication/367524368_Voting_fast_and_slow_Ballot_order_and_likeability_effects_in_the_Five_Star_Movement's_2012_online_primary_election).
-
-_Current interests_: multi-modal representations.
 
 ## Old stuff
 
@@ -46,11 +34,16 @@ I also led the first data analysis and [vizualization](https://vimeo.com/7466434
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: December 2022. 
+Last update: January 2023. 
 
 ## Appendix
 
-Quick links to selected talks, papers, datasets: if there's a paper, talk, slide deck you know I have, but you can't find it (here or elsewhere), please do get in touch directly.
+Quick links to selected projects, talks, papers, datasets: if there's a paper, talk, deck you know I have, but you can't find it (here or elsewhere), please do get in touch directly.
+
+### Selected open source projects
+
+* [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [CIKM competition](https://reclist.io/cikm2022-cup/), and few papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM Workshop](https://ceur-ws.org/Vol-3318/keynote3.pdf)).
+* "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is a (very opinionated) introduction to modern pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021. A simpler setup, based on the same principles, can be found in the [Post-Modern Data Stack](https://github.com/jacopotagliabue/post-modern-stack) project.
 
 ### Selected talks
 
@@ -59,7 +52,6 @@ Quick links to selected talks, papers, datasets: if there's a paper, talk, slide
 * [Recs at reasonable scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit (Keynote)_, 07/22
 * [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/22 
 * [I (don't) know what you did last summer](public/Lowe_Nov_2021.pdf), _Lowe's_, 11/21
-* [ML at reasonable scale](https://www.youtube.com/watch?v=Ndxpo4PeEms), _Stanford MLSys Lecture_, 07/21
 * [Not all those who browse are lost: few-shot and zero-shot personalization with deep architectures](https://www.youtube.com/watch?v=PFfSiE4CGPY), _Haystack_, 07/20
 
 ### Selected papers
