@@ -26,11 +26,11 @@ As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagli
 
 ## Old stuff
 
-In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization and give an academic talk on videogames. 
+In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization, document biases in national elections and give an academic talk on videogames. For some reasons, few of my improbable "achievements" received [ample](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) [press](public/il_foglio_02_2023.pdf) [coverage](public/isport_gazzetta.pdf) in national outlets.
 
-Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led one of the first [attempts](public/isport_gazzetta.pdf) of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/). 
+Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led one of the first attempts of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/). 
 
-I also led the first data analysis and [vizualization](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf), which received plenty of [press](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) coverage. No bikers (and no bureaucrats) were harmed for the project.
+I also led the first data analysis and [vizualization](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf). No bikers (and no bureaucrats) were harmed for the project.
 
 ## About this page
 
