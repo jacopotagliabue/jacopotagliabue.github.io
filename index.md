@@ -22,7 +22,7 @@ My recent research sits at the intersection of language, learning and retrieval.
 
 I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in many NLP and IR events (COLING, ECONLP, ECNLP, EMNLP, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: computational social sciences, [agent-based models](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.researchgate.net/publication/367524368_Voting_fast_and_slow_Ballot_order_and_likeability_effects_in_the_Five_Star_Movement's_2012_online_primary_election).
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
 
 ## Old stuff
 
@@ -36,7 +36,7 @@ I also led the first data analysis and [vizualization](https://vimeo.com/7466434
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: January 2023. 
+Last update: February 2023. 
 
 ## Appendix
 
@@ -68,6 +68,7 @@ Quick links to selected projects, talks, papers, datasets: if there's a paper, t
 
 ### Datasets
 
+* [EvalRS 2022](https://github.com/RecList/evalRS-CIKM-2022/blob/main/README.md), packaging the LFM-1b dataset into an easy-to-use, "testable" format for our [data challenge](https://arxiv.org/abs/2207.05772).
 * [SIGIR eCom Challenge 2021](https://github.com/coveooss/SIGIR-ecom-data-challenge), the [largest and most complete](https://arxiv.org/abs/2104.09423) session-based dataset of all time.
 * [Shopper Intent Prediction](https://github.com/coveooss/shopper-intent-prediction-nature-2020), from our [paper](https://www.nature.com/articles/s41598-020-73622-y.epdf?sharing_token=tydJezcxTZvP8cNEDsAKn9RgN0jAjWel9jnR3ZoTv0NoB1nwg3Wgf_mP0ktAdV_HGxUxXaNdBCErP1Zck0ibhFGwRrt0xq-Uy2wNz5DkwbFN44Mxzwb3WdN593RbqBFNucB9hEgd3EFvTZaqO9reUDDlh-mybSw5d1-G04RfdBQ%3D).
 
