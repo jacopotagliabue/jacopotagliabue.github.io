@@ -6,7 +6,7 @@ I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo 
 
 Having built end-to-end data pipelines at garage, growth and IPO scale, I happily shared all my mistakes at _Reasonable Scale_ in a series of [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops). 
 
-I'm a proud NLP advisor for [Civic Eagle](https://www.civiceagle.com/), and also Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. 
+I'm a proud NLP advisor for [Plural](https://www.pluralpolicy.com/), and Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. 
 
 I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
 
