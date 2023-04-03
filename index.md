@@ -20,7 +20,7 @@ I talk _a lot_, and I'm sometimes asked to do so by friends in industry - from s
 
 My recent research sits at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in many NLP and IR events (COLING, ECONLP, ECNLP, EMNLP, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in many NLP and IR events (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our EvalRS 2022 competition was at the heart of a Nature Machine Intelligence [editorial](https://www.nature.com/articles/s42256-023-00631-7), and our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
 
@@ -28,9 +28,7 @@ As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagli
 
 In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization, document biases in national elections and give an academic talk on videogames. For some reasons, few of my improbable "achievements" received [ample](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) [press](public/il_foglio_02_2023.pdf) [coverage](public/isport_gazzetta.pdf) in national outlets.
 
-Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led one of the first attempts of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/). 
-
-I also led the first data analysis and [vizualization](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf). No bikers (and no bureaucrats) were harmed for the project.
+Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led one of the first attempts of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/), and spearheaded the first analysis and [visualization](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf) (no bikers (and no bureaucrats) were harmed for the project).
 
 ## About this page
 
