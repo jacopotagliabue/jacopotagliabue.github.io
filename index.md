@@ -8,7 +8,7 @@ Having built end-to-end data pipelines at garage, growth and IPO scale, I happil
 
 I'm a proud NLP advisor for [Plural](https://www.pluralpolicy.com/), and Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. 
 
-I'm building a new company now and I'm always happy to chat about DataOps, MLOps and NLP.
+I'm building [Bauplan](https://wellfound.com/company/bauplan-6) now, and I'm always happy to chat about DataOps, MLOps and NLP.
 
 ### Where is my mind?
 
@@ -20,30 +20,30 @@ I talk _a lot_, and I'm sometimes asked to do so by friends in industry - from s
 
 My recent research sits at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved in many NLP and IR events (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our EvalRS 2022 competition was at the heart of a Nature Machine Intelligence [editorial](https://www.nature.com/articles/s42256-023-00631-7), and our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved as PC and chair in many NLP / IR events (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our EvalRS 2022 competition was at the heart of a Nature Machine Intelligence [editorial](https://www.nature.com/articles/s42256-023-00631-7), and our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
 
 ## Old stuff
 
-In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization, document biases in national elections and give an academic talk on videogames. For some reasons, few of my improbable "achievements" received [ample](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) [press](public/il_foglio_02_2023.pdf) [coverage](public/isport_gazzetta.pdf) in national outlets.
+In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization, document biases in national elections and give an academic talk on videogames. Some of my improbable "achievements" received [ample](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) [press](public/il_foglio_02_2023.pdf) [coverage](public/isport_gazzetta.pdf) in national outlets.
 
-Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led one of the first attempts of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/), and spearheaded the first analysis and [visualization](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf) (no bikers or bureaucrats were harmed during the project).
+Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led one of the first attempts of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/), and spearheaded the first [data science](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf) (no bikers or bureaucrats were harmed during the project).
 
 ## About this page
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: February 2023. 
+Last update: April 2023. 
 
 ## Appendix
 
-Quick links to selected projects, talks, papers, datasets: if there's a paper, talk, deck you know I have, but you can't find it (here or elsewhere), please do get in touch directly.
+Quick links to selected projects, talks, papers, datasets: if anything rings a bell, please get in touch!
 
 ### Selected open source projects
 
 * [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [competition](https://reclist.io/cikm2022-cup/), and three papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM](https://ceur-ws.org/Vol-3318/keynote3.pdf)).
-* "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is an introduction to modern pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021. A simpler setup with the same principles can be found in the [Post-Modern Data Stack](https://github.com/jacopotagliabue/post-modern-stack) project.
+* "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is an introduction to modern pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021. A simpler setup (with the same principles) is my [Post-Modern Data Stack](https://github.com/jacopotagliabue/post-modern-stack).
 
 ### Selected talks
 
