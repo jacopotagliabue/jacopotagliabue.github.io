@@ -14,15 +14,15 @@ I'm building [Bauplan](https://wellfound.com/company/bauplan-6) now, and I'm alw
 
 I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en) and [teaching materials](https://github.com/jacopotagliabue/MLSys-NYU-2022); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
-I talk _a lot_, and I'm sometimes asked to do so by friends in industry - from startups to Fortune 500 - and academia: popular projects and papers are highlighted (for readers with insomnia) [at the end of this page](#appendix).
+I talk _a lot_, and I'm sometimes invited to do so by friends in industry (Home Depot, Lowe's, Farfetch, eBay, NVIDIA, Pinterest) and research (KDD, SIRIP, CiE): some of my talks and papers are highlighted (for readers with insomnia) [at the end of this page](#appendix).
 
 ### A.I. research
 
 My recent research sits at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom, Industry Sponsorship Chair for CIKM 2022, and I've been involved as PC and chair in many NLP / IR events (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our EvalRS 2022 competition was at the heart of a Nature Machine Intelligence [editorial](https://www.nature.com/articles/s42256-023-00631-7), and our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I am co-organizer of SIGIR eCom (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I've been part of the program committee for many conferences (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our EvalRS 2022 competition was at the heart of a Nature Machine Intelligence [editorial](https://www.nature.com/articles/s42256-023-00631-7), and our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
 
 ## Old stuff
 
@@ -38,7 +38,7 @@ Last update: April 2023.
 
 ## Appendix
 
-Quick links to selected projects, talks, papers, datasets: if anything rings a bell, please get in touch!
+Quick links to selected projects, talks, papers, datasets: if anything rings a bell, get in touch!
 
 ### Selected open source projects
 
@@ -50,8 +50,7 @@ Quick links to selected projects, talks, papers, datasets: if anything rings a b
 * [Mo' models, mo' problems: CLIP-like models and generalization in modern e-commerce platforms](public/kdd_final_2022_keynote.pdf), _KDD 2022 (Invited Talk)_, 08/22
 * [Are we there yet? Meaning in the age of large language models](public/are_we_there_yet.pdf), _CiE 2022 (Invited Talk)_, 07/22
 * [Recs at reasonable scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit (Keynote)_, 07/22
-* [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/22 
-* [I (don't) know what you did last summer](public/Lowe_Nov_2021.pdf), _Lowe's_, 11/21
+* [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/22
 * [Not all those who browse are lost: few-shot and zero-shot personalization with deep architectures](https://www.youtube.com/watch?v=PFfSiE4CGPY), _Haystack_, 07/20
 
 ### Selected papers
@@ -63,6 +62,7 @@ Quick links to selected projects, talks, papers, datasets: if anything rings a b
 * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/) (NAACL 2021, Best Paper Award)
 * [Language in a (Search) Box: Grounding Language Learning in Real-World Human-Machine Interaction](https://aclanthology.org/2021.naacl-main.348/) (NAACL 2021)
 * [Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/) (SEP 2017) 
+* [There’s Plenty of Boole at the Bottom: A Reversible CA Against Information Entropy](https://philpapers.org/archive/BERTPO-77.pdf) (Minds & Machines 2016)
 
 ### Datasets
 
