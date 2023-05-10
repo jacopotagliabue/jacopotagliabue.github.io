@@ -20,9 +20,9 @@ I talk _a lot_, and I'm sometimes invited to do so by friends in industry (Home 
 
 My recent research sits at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I've been part of the program committee for many conferences (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our EvalRS 2022 competition was at the heart of a Nature Machine Intelligence [editorial](https://www.nature.com/articles/s42256-023-00631-7), and our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I am co-organizer of SIGIR eCom (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I've been part of the program committee for many conferences (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
 
 ## Old stuff
 
@@ -47,10 +47,10 @@ Quick links to selected projects, talks, papers, datasets: if anything rings a b
 
 ### Selected talks
 
+* [Wild Wild Tests](https://www.youtube.com/watch?v=EAjoTnyVGFs), _Arthur Ground Truth Series_, 04/23
 * [Mo' models, mo' problems: CLIP-like models and generalization in modern e-commerce platforms](public/kdd_final_2022_keynote.pdf), _KDD 2022 (Invited Talk)_, 08/22
 * [Are we there yet? Meaning in the age of large language models](public/are_we_there_yet.pdf), _CiE 2022 (Invited Talk)_, 07/22
 * [Recs at reasonable scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit (Keynote)_, 07/22
-* [RecList](https://www.youtube.com/watch?v=cAlJYxFYA04), _StitchFix Algo Hour_, 03/22
 * [Not all those who browse are lost: few-shot and zero-shot personalization with deep architectures](https://www.youtube.com/watch?v=PFfSiE4CGPY), _Haystack_, 07/20
 
 ### Selected papers
@@ -64,10 +64,10 @@ Quick links to selected projects, talks, papers, datasets: if anything rings a b
 * [Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/) (SEP 2017) 
 * [There’s Plenty of Boole at the Bottom: A Reversible CA Against Information Entropy](https://philpapers.org/archive/BERTPO-77.pdf) (Minds & Machines 2016)
 
-### Datasets
+### Datasets and data challenges
 
-* [EvalRS 2022](https://github.com/RecList/evalRS-CIKM-2022/blob/main/README.md), packaging the LFM-1b dataset into an easy-to-use, "testable" format for our [data challenge](https://arxiv.org/abs/2207.05772).
-* [SIGIR eCom Challenge 2021](https://github.com/coveooss/SIGIR-ecom-data-challenge), the [largest and most complete](https://arxiv.org/abs/2104.09423) session-based dataset of all time.
+* [EvalRS 2022](https://github.com/RecList/evalRS-CIKM-2022/blob/main/README.md), packaging the LFM-1b dataset into an easy-to-use, "testable" format for our [data challenge](https://arxiv.org/abs/2207.05772). The competition featured 150 participants in 50 teams, and was at the heart of a Nature Machine Intelligence [editorial](https://www.nature.com/articles/s42256-023-00631-7).
+* [SIGIR eCom Challenge 2021](https://github.com/coveooss/SIGIR-ecom-data-challenge), the [largest and most complete](https://arxiv.org/abs/2104.09423) session-based dataset of all time, released for SIGIR 2021.
 * [Shopper Intent Prediction](https://github.com/coveooss/shopper-intent-prediction-nature-2020), from our [paper](https://www.nature.com/articles/s41598-020-73622-y.epdf?sharing_token=tydJezcxTZvP8cNEDsAKn9RgN0jAjWel9jnR3ZoTv0NoB1nwg3Wgf_mP0ktAdV_HGxUxXaNdBCErP1Zck0ibhFGwRrt0xq-Uy2wNz5DkwbFN44Mxzwb3WdN593RbqBFNucB9hEgd3EFvTZaqO9reUDDlh-mybSw5d1-G04RfdBQ%3D).
 
 Aside from research and tutorials, our datasets have been successfully used by dozens of master students to defend their thesis at Tillburg University and Politecnico in Milan.
