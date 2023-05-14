@@ -4,7 +4,9 @@ Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founde
 
 I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://rdcu.be/c4dXy)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-I'm a proud NLP advisor for [Plural](https://www.pluralpolicy.com/), and Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. I recently started investing in tech startups, both directly and as LP in AI funds: I'm always happy to chat with founders about DataOps, MLOps and AI.
+I'm a proud NLP advisor for [Plural](https://www.pluralpolicy.com/), and Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. 
+
+I recently started investing in tech startups, both directly and as LP in AI funds: I'm always happy to chat with founders about DataOps, MLOps and AI.
 
 I'm now building [Bauplan](https://www.bauplanlabs.com/). 
 
