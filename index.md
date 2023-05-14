@@ -4,11 +4,9 @@ Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founde
 
 I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://rdcu.be/c4dXy)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
-Having built end-to-end data pipelines at garage, growth and IPO scale, I happily shared all my mistakes at _Reasonable Scale_ in a series of [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops). 
+I'm a proud NLP advisor for [Plural](https://www.pluralpolicy.com/), and Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. I recently started investing in tech startups, both directly and as LP in AI funds: I'm always happy to chat with founders about DataOps, MLOps and AI.
 
-I'm a proud NLP advisor for [Plural](https://www.pluralpolicy.com/), and Adj. Professor of ML at NYU, which is mostly notable because it is the only job I ever had that my parents (sort of) understand. 
-
-I'm building [Bauplan](https://wellfound.com/company/bauplan-6) now, and I'm always happy to chat about DataOps, MLOps and NLP.
+I'm now building [Bauplan](https://www.bauplanlabs.com/). 
 
 ### Where is my mind?
 
@@ -26,7 +24,9 @@ As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagli
 
 ## Old stuff
 
-In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization, document biases in national elections and give an academic talk on videogames. Some of my improbable "achievements" received [ample](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) [press](public/il_foglio_02_2023.pdf) [coverage](public/isport_gazzetta.pdf) in national outlets.
+In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization, document biases in national elections and give an academic talk on videogames. Some of my improbable "achievements" received [ample](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) [press](public/il_foglio_02_2023.pdf) [coverage](public/isport_gazzetta.pdf) in national outlets. 
+
+Having built end-to-end data and ML pipelines at garage, growth and IPO scale, I happily shared all my mistakes in a series of [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) that introduced the concept of _Reasonable Scale_.
 
 Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(film)), I led one of the first attempts of running sophisticated analytics for a professional basketball [team](http://www.olimpiamilano.com/en/), and spearheaded the first [data science](https://vimeo.com/74664341) effort on Milan's [bike-sharing service](public/PedalaMi.pdf) (no bikers or bureaucrats were harmed during the project).
 
