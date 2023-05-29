@@ -36,18 +36,19 @@ Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(fi
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: April 2023. 
+Last update: May 2023. 
 
 ## Appendix
 
-Quick links to selected projects, talks, papers, datasets: if anything rings a bell, get in touch!
+Quick links to some _selected_ projects, talks, papers, datasets.
 
-### Selected open source projects
+### Open source projects
 
 * [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [competition](https://reclist.io/cikm2022-cup/), and three papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM](https://ceur-ws.org/Vol-3318/keynote3.pdf)).
+* [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip) is a fashion-aware model based on CLIP. As the first ever industry-aware CLIP model, FashionCLIP spawned an [open source repo](https://github.com/patrickjohncyh/fashion-clip), two papers ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9) and [ACL](https://aclanthology.org/2022.ecnlp-1.22/)), and a popular [HuggingFace release](https://huggingface.co/patrickjohncyh/fashion-clip), with >50k downloads in its first few months. 
 * "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is an introduction to modern pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021. A simpler setup (with the same principles) is my [Post-Modern Data Stack](https://github.com/jacopotagliabue/post-modern-stack).
 
-### Selected talks
+### Talks
 
 * [Wild Wild Tests](https://www.youtube.com/watch?v=EAjoTnyVGFs), _Arthur Ground Truth Series_, 04/23
 * [Mo' models, mo' problems: CLIP-like models and generalization in modern e-commerce platforms](public/kdd_final_2022_keynote.pdf), _KDD 2022 (Invited Talk)_, 08/22
@@ -55,7 +56,7 @@ Quick links to selected projects, talks, papers, datasets: if anything rings a b
 * [Recs at reasonable scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit (Keynote)_, 07/22
 * [Not all those who browse are lost: few-shot and zero-shot personalization with deep architectures](https://www.youtube.com/watch?v=PFfSiE4CGPY), _Haystack_, 07/20
 
-### Selected papers
+### Papers
 
 * [A challenge for rounded evaluation of recommender systems](https://www.nature.com/articles/s42256-022-00606-0) (Nat. Mach. Int. 2023)
 * [Contrastive language and vision learning of general fashion concepts](https://www.nature.com/articles/s41598-022-23052-9) (Nat. Sci. Rep. 2022)
