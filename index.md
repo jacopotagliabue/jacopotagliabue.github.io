@@ -20,7 +20,7 @@ I talk _a lot_, and I'm sometimes invited to do so by friends in industry (Home 
 
 My recent research sits at the intersection of language, learning and retrieval. 
 
-I am co-organizer of SIGIR eCom (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I've been part of the program committee for many conferences (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I am co-organizer of SIGIR eCom (2022, 2023), EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I've been part of the program committee for many conferences (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
 As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
 
@@ -44,13 +44,13 @@ Quick links to some _selected_ projects, talks, papers, datasets.
 
 ### Open source projects
 
-* [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [competition](https://reclist.io/cikm2022-cup/), and three papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM](https://ceur-ws.org/Vol-3318/keynote3.pdf)).
+* [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [competition](https://reclist.io/cikm2022-cup/), an open source [hackathon](https://github.com/RecList/evalRS-KDD-2023) and three papers ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM](https://ceur-ws.org/Vol-3318/keynote3.pdf)).
 * [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip) is a fashion-aware model based on CLIP. As the first ever industry-aware CLIP model, FashionCLIP spawned an [open source repo](https://github.com/patrickjohncyh/fashion-clip), two papers ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9) and [ACL](https://aclanthology.org/2022.ecnlp-1.22/)), and a popular [HuggingFace release](https://huggingface.co/patrickjohncyh/fashion-clip), with >500k downloads in just the first few months. 
 * "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is an introduction to modern pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021. A simpler setup (with the same principles) is my [Post-Modern Data Stack](https://github.com/jacopotagliabue/post-modern-stack).
 
 ### Talks
 
-* [Applied R&D at startup scale](public/SIRIP_2023_keynote.pdf), _SIRIP@SIGIR (Keynote)_, 04/23
+* [Applied R&D at startup scale](public/SIRIP_2023_keynote.pdf), _SIGIR 2023 (SIRIP Keynote)_, 04/23
 * [Wild Wild Tests](https://www.youtube.com/watch?v=EAjoTnyVGFs), _Arthur Ground Truth Series (Invited Talk)_, 04/23
 * [Mo' models, mo' problems: CLIP-like models and generalization in modern e-commerce platforms](public/kdd_final_2022_keynote.pdf), _KDD 2022 (Invited Talk)_, 08/22
 * [Are we there yet? Meaning in the age of large language models](public/are_we_there_yet.pdf), _CiE 2022 (Invited Talk)_, 07/22
