@@ -14,7 +14,7 @@ I'm now building [Bauplan](https://www.bauplanlabs.com/).
 
 I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en) and [teaching materials](https://github.com/jacopotagliabue/MLSys-NYU-2022); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
-I talk _a lot_, and I'm sometimes invited to do so by friends in industry (Home Depot, Lowe's, Farfetch, eBay, NVIDIA, Pinterest) and research (KDD, SIRIP, CiE): some of my talks and papers are highlighted (for readers with insomnia) [at the end of this page](#appendix).
+I talk _a lot_, and I'm sometimes invited to do so by friends in industry (Home Depot, Lowe's, Farfetch, eBay, NVIDIA, Pinterest) and research ([KDD](public/ADKDD_talk_Aug_2023.pdf), [SIRIP](public/SIRIP_2023_keynote.pdf), CiE): some of my talks and papers are highlighted (for readers with insomnia) [at the end of this page](#appendix).
 
 ### A.I. research
 
@@ -36,7 +36,7 @@ Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(fi
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: July 2023. 
+Last update: August 2023. 
 
 ## Appendix
 
