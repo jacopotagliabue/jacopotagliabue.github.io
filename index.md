@@ -16,13 +16,13 @@ I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https:/
 
 I talk _a lot_, and I'm sometimes invited to do so by friends in industry (Home Depot, Lowe's, Farfetch, eBay, NVIDIA, Pinterest) and research ([KDD](public/ADKDD_talk_Aug_2023.pdf), [SIRIP](public/SIRIP_2023_keynote.pdf), CiE): some of my talks and papers are highlighted (for readers with insomnia) [at the end of this page](#appendix).
 
-### A.I. research
+### Research-y stuff
 
-My recent research sits at the intersection of language, learning and retrieval. 
+My recent research sits at the intersection of language, learning and retrieval, with a recent drift towards [data processing](https://arxiv.org/abs/2308.05368).
 
-I am co-organizer of SIGIR eCom (2022, 2023), EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I've been part of the program committee for many conferences (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
+I am co-organizer of SIGIR eCom (2022, 2023), EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I've been in the program committee for many conferences (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: [data management](https://arxiv.org/abs/2308.05368), [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
 
 ## Old stuff
 
