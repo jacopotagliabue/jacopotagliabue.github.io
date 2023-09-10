@@ -1,6 +1,6 @@
 ## My name is Apo and I'm a mighty pirate
 
-Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
+Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founder and CTO of Tooso, a [NLP / IR startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso).
 
 I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Outerbounds](https://arxiv.org/pdf/2110.13601.pdf), [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [Microsoft](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [NVIDIA](https://rdcu.be/c4dXy)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge).
 
@@ -14,7 +14,7 @@ I'm now building [Bauplan](https://www.bauplanlabs.com/).
 
 I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en) and [teaching materials](https://github.com/jacopotagliabue/MLSys-NYU-2022); if you have no intention of selling me anything, you can also try me on [Linkedin](https://www.linkedin.com/in/jacopotagliabue/).
 
-I talk _a lot_, and I'm sometimes invited to do so by friends in industry (Home Depot, Lowe's, Farfetch, eBay, NVIDIA, Pinterest) and research ([KDD](public/ADKDD_talk_Aug_2023.pdf), [SIRIP](public/SIRIP_2023_keynote.pdf), CiE): some of my talks and papers are highlighted (for readers with insomnia) [at the end of this page](#appendix).
+I talk _a lot_, and I'm sometimes invited to do so by friends in industry (e.g. Home Depot, Lowe's, Farfetch, eBay, NVIDIA, Pinterest) and research (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIRIP](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php)): some of my talks and papers are highlighted [at the end of this page](#appendix).
 
 ### Research-y stuff
 
@@ -22,7 +22,7 @@ My recent research sits at the intersection of language, learning and retrieval,
 
 I am co-organizer of SIGIR eCom (2022, 2023), EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I've been in the program committee for many conferences (COLING, ECONLP, ECNLP, EMNLP, ACL, SIRIP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: [data management](https://arxiv.org/abs/2308.05368), [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend more time with old friends: [data systems](https://arxiv.org/abs/2308.05368), [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124).
 
 ## Old stuff
 
@@ -52,8 +52,8 @@ Quick links to some _selected_ projects, talks, papers, datasets.
 
 * [Applied R&D at startup scale](public/SIRIP_2023_keynote.pdf), _SIGIR 2023 (SIRIP Keynote)_, 04/23
 * [Wild Wild Tests](https://www.youtube.com/watch?v=EAjoTnyVGFs), _Arthur Ground Truth Series (Invited Talk)_, 04/23
-* [Mo' models, mo' problems: CLIP-like models and generalization in modern e-commerce platforms](public/kdd_final_2022_keynote.pdf), _KDD 2022 (Invited Talk)_, 08/22
-* [Are we there yet? Meaning in the age of large language models](public/are_we_there_yet.pdf), _CiE 2022 (Invited Talk)_, 07/22
+* [Mo' models, mo' problems: CLIP-like models and generalization in modern e-commerce platforms](public/kdd_final_2022_keynote.pdf), _KDD 2022 (Ecom-Gen Keynote)_, 08/22
+* [Are we there yet? Meaning in the age of large language models](public/are_we_there_yet.pdf), _CiE 2022 (Keynote)_, 07/22
 * [Recs at reasonable scale](https://youtu.be/9rouLchcC0k?t=147) ([slides](https://github.com/jacopotagliabue/recs-at-resonable-scale/blob/main/slides/NVIDIA_RECSYS_SUMMIT_JT.pdf), [repo](https://github.com/jacopotagliabue/recs-at-resonable-scale)), _NVIDIA RecSys Summit (Keynote)_, 07/22
 * [Not all those who browse are lost: few-shot and zero-shot personalization with deep architectures](https://www.youtube.com/watch?v=PFfSiE4CGPY), _Haystack_, 07/20
 
