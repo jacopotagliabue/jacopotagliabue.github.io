@@ -4,11 +4,9 @@ Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founde
 
 I led Coveo's A.I. and MLOps roadmap from scale-up to IPO, and built out Coveo Labs, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [NVIDIA](https://rdcu.be/c4dXy)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge) - our libraries, models and datasets have collected thousands of stars and garnered millions of downloads.
 
-I'm a proud NLP advisor for [Plural](https://www.pluralpolicy.com/), and [Adj. Professor of ML at NYU](https://github.com/jacopotagliabue/MLSys-NYU-2022), which is mostly notable because it is the only job I ever had that my parents (sort of) understand. 
-
 I recently started investing in tech startups, both directly and as LP in AI funds: I'm always happy to chat with founders about DataOps, MLOps and AI.
 
-I'm now building [Bauplan](https://www.bauplanlabs.com/). 
+While building [Bauplan](https://www.bauplanlabs.com/), I moonlight as [Adj. Professor of ML at NYU](https://github.com/jacopotagliabue/MLSys-NYU-2022), which is mostly notable because it is the only job I ever had that my parents (sort of) understand.
 
 ### Where is my mind?
 
