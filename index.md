@@ -58,6 +58,7 @@ Quick links to some _selected_ projects, talks, papers, datasets.
 
 ### Papers
 
+* [Building a serverless Data Lakehouse from spare parts](https://arxiv.org/pdf/2308.05368.pdf) (CDMS@VLDB 2023)
 * [A challenge for rounded evaluation of recommender systems](https://www.nature.com/articles/s42256-022-00606-0) (Nat. Mach. Int. 2023)
 * [Contrastive language and vision learning of general fashion concepts](https://www.nature.com/articles/s41598-022-23052-9) (Nat. Sci. Rep. 2022)
 * [Beyond NDCG: behavioral testing of recommender systems with RecList](https://dl.acm.org/doi/abs/10.1145/3487553.3524215) (WebConf 2022)
