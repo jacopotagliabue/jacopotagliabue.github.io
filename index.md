@@ -34,7 +34,7 @@ Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(fi
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: October 2023. 
+Last update: December 2023. 
 
 ## Appendix
 
@@ -48,6 +48,7 @@ Quick links to some _selected_ projects, talks, papers, datasets.
 
 ### Talks
 
+* [When FaaS met data](https://systems.ethz.ch/research/compass/when_faas_met_data.html), _ETH Compass Talk_, 11/23
 * [Applied R&D at startup scale](public/SIRIP_2023_keynote.pdf), _SIGIR 2023 (SIRIP Keynote)_, 04/23
 * [Wild Wild Tests](https://www.youtube.com/watch?v=EAjoTnyVGFs), _Arthur Ground Truth Series (Invited Talk)_, 04/23
 * [Mo' models, mo' problems: CLIP-like models and generalization in modern e-commerce platforms](public/kdd_final_2022_keynote.pdf), _KDD 2022 (Ecom-Gen Keynote)_, 08/22
