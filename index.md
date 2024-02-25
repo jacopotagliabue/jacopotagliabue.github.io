@@ -4,9 +4,7 @@ Educated in several acronyms across the globe (UNISR, SFI, MIT), I was co-founde
 
 I led Coveo's AI and MLOps roadmap from scale-up to IPO, and built out Coveo Labs, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in collaboration (e.g. [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [Farfetch](https://aclanthology.org/2022.ecnlp-1.22/), [NVIDIA](https://rdcu.be/c4dXy)), [open source](https://github.com/jacopotagliabue) and [open science](https://github.com/coveooss/SIGIR-ecom-data-challenge) - our libraries, models and datasets have collected thousands of stars and garnered millions of downloads.
 
-I recently started investing in tech startups, both directly and as LP in AI funds: I'm always happy to chat with founders about DataOps, MLOps and AI.
-
-While building [Bauplan](https://www.bauplanlabs.com/), I moonlight as [Adj. Professor of ML at NYU](https://github.com/jacopotagliabue/MLSys-NYU-2022), which is mostly notable because it is the only job I ever had that my parents understand.
+While building my new startup, [Bauplan](https://www.bauplanlabs.com/), I moonlight as [Adj. Professor of ML at NYU](https://github.com/jacopotagliabue/MLSys-NYU-2022), which is mostly notable because it is the only job I ever had that my parents understand.
 
 ### Where is my mind?
 
@@ -14,13 +12,15 @@ I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https:/
 
 I talk _a lot_, and I'm sometimes invited to do so by friends in industry (e.g. talks at Home Depot, Lowe's, Farfetch, eBay, Pinterest) and research (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIRIP](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf)): some of my talks and papers are highlighted [at the end of this page](#appendix).
 
+I recently started investing in tech startups, both directly and as LP in AI funds: I’m always happy to chat with founders about DataOps, MLOps and AI.
+
 ### Research-y stuff
 
 Most of my research sits at the intersection of language, learning and retrieval, with a recent drift towards [data systems](https://arxiv.org/abs/2308.05368).
 
 I have been co-organizer of SIGIR eCom (2022, 2023) and EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, and I have been involved in various capacities in many top-tier events (COLING, EMNLP, ACL, SIRIP, ECONLP, ECNLP). My work has been presented in venues such as [NAACL](https://aclanthology.org/2021.naacl-main.348/), [WWW](https://arxiv.org/abs/2111.09963), [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477) and [Nature journals](https://www.nature.com/articles/s41598-022-23052-9): our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21.
 
-As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend time with old friends: [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124), [digital ethics](https://link.springer.com/article/10.1007/s11023-023-09644-y).
+As a true [SFI alumnus](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as a way to spend time with old friends: [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), computational social sciences, [human-machine computation](https://www.humancomputation.com/2019/assets/papers/113.pdf), [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124), [digital ethics](https://link.springer.com/article/10.1007/s11023-023-09644-y).
 
 ## Old stuff
 
@@ -34,7 +34,7 @@ Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(fi
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: January 2024. 
+Last update: February 2024. 
 
 ## Appendix
 
@@ -43,7 +43,7 @@ Quick links to some _selected_ projects, talks, papers, datasets.
 ### Open source projects
 
 * [RecList](http://reclist.io/) is a testing library for recommender systems: RecList spawned a sponsored [open source package](https://github.com/jacopotagliabue/reclist), a [competition](https://reclist.io/cikm2022-cup/), an open source [hackathon](https://github.com/RecList/evalRS-KDD-2023), a [white paper on evaluation](https://arxiv.org/pdf/2304.10621.pdf) and three articles ([WWW](https://dl.acm.org/doi/abs/10.1145/3487553.3524215), [Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00606-0), [CIKM](https://ceur-ws.org/Vol-3318/keynote3.pdf)).
-* [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip) is a fashion-aware model based on CLIP. As the first ever industry-aware CLIP model, FashionCLIP spawned an [open source repo](https://github.com/patrickjohncyh/fashion-clip), two papers ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9) and [ACL](https://aclanthology.org/2022.ecnlp-1.22/)), and a popular [HuggingFace release](https://huggingface.co/patrickjohncyh/fashion-clip), with more than 2 million downloads in just the first few months. 
+* [FashionCLIP](https://huggingface.co/patrickjohncyh/fashion-clip) is a fashion-aware model based on CLIP. As the first ever industry-aware CLIP model, FashionCLIP spawned an [open source repo](https://github.com/patrickjohncyh/fashion-clip), two papers ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9) and [ACL](https://aclanthology.org/2022.ecnlp-1.22/)), and a popular [HuggingFace release](https://huggingface.co/patrickjohncyh/fashion-clip), with more than three million downloads in the first few months. 
 * "[You don't need a bigger boat](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)" is an introduction to modern pipelines at the Reasonable Scale, first presented at the [Stanford MLSys Lectures](https://www.youtube.com/watch?v=Ndxpo4PeEms) in 2021.
 
 ### Talks
