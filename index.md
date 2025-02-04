@@ -40,7 +40,7 @@ Last update: December 2024.
 
 ## Appendix
 
-I often get invited to talk about things I (sort of) know by friends in industry (e.g. Home Depot, Farfetch, eBay, Pinterest, Tubi) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIRIP](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf)). 
+I often get invited to talk about things I (sort of) know by friends in industry (e.g. Home Depot, Farfetch, eBay, Pinterest, Tubi) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIRIP](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), IEEE Cloud). 
 
 While my full publication list is available on [Google Scholar](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), quick links to selected projects, talks, papers and datasets are collected here for convenience.
 
@@ -61,8 +61,8 @@ While my full publication list is available on [Google Scholar](https://scholar.
 
 ### Papers
 
-* [FaaS and Furious: abstractions and differential caching for efficient data pre-processing](https://arxiv.org/pdf/2411.08203) (IEEE Big Data 2024)
-* [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](https://arxiv.org/pdf/2410.17465) (WoSC@Middleware 2024) 
+* [FaaS and Furious: abstractions and differential caching for efficient data pre-processing](https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825377/23ykNNAWCbK) (IEEE Big Data 2024)
+* [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](https://dl.acm.org/doi/10.1145/3702634.3702955) (WoSC@Middleware 2024) 
 * [Reproducible data science over data lakes](https://dl.acm.org/doi/abs/10.1145/3650203.3663335) (DEEM@SIGMOD 2024, Best Presentation Award)
 * [Contrastive language and vision learning of general fashion concepts](https://www.nature.com/articles/s41598-022-23052-9) (Nat. Sci. Rep. 2022)
 * [The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/10.1145/3383313.3411477) (RecSys 2020)
