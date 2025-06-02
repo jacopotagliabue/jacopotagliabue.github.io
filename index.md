@@ -1,12 +1,12 @@
 ## TL;DR
 
-Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I was co-founder and CTO of Tooso, an [AI startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) in San Francisco providing search results and product recommendations to millions of users, before being acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso).
+Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I am the co-founder of [Bauplan](https://www.bauplanlabs.com/), a data infrastructure company based in NYC and SF. I was co-founder and CTO of Tooso, an [AI startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) providing search and recommendations to millions of users, before being acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). 
 
-I led Coveo's AI from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in open science: our libraries, models and datasets have collected thousands of stars, raised tens of thousands of dollars in donations, and garnered millions of downloads. 
+I led Coveo's AI from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in open science: our libraries, models and datasets have collected thousands of stars and garnered millions of downloads. 
 
-Throughout my career, I have been fortunate enough to collaborate with incredible folks in industry and academia (e.g. [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [NVIDIA](https://rdcu.be/c4dXy), [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Univ. of Wisconsin-Madison](https://dl.acm.org/doi/10.1145/3702634.3702955)), and work on products spanning multiple fields: Information Retrieval, Data Science, Artificial Intelligence, Data Management, Computer Systems. My [research papers](#research) are usually characterized by a keen product eye, and are memorable mostly for their titles (e.g. "Not all those who browse are lost", "You don't need a bigger boat", "Mo' models, mo' problems", "Faas and Furious").
+Throughout my career, I have been fortunate enough to collaborate with incredible folks in industry (e.g. [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [NVIDIA](https://rdcu.be/c4dXy)) and academia ([Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Univ. of Wisconsin-Madison](https://dl.acm.org/doi/10.1145/3702634.3702955), [Univ. of Chicago](https://arxiv.org/abs/2505.13750)), and work on products spanning multiple fields: Information Retrieval, Data Science, Artificial Intelligence, Data Management, Computer Systems. My [research contributions](#research) are often product focused, and are memorable mostly for their titles (e.g. "Not all those who browse are lost", "You don't need a bigger boat", "Mo' models, mo' problems", "Faas and Furious").
 
-While building my new startup, [Bauplan](https://www.bauplanlabs.com/), I moonlight as [Adj. Professor of ML at NYU](https://github.com/jacopotagliabue/MLSys-NYU-2022), which is only notable because it is the only job I ever had that my parents understand.
+While building my new startup, I moonlight as [Adj. Professor of ML at NYU](https://github.com/jacopotagliabue/MLSys-NYU-2022), which is only notable because it is the only job I ever had that my parents understand.
 
 ### Where is my mind?
 
@@ -18,11 +18,11 @@ I recently started investing in startups, both directly and as LP in AI funds: I
 
 I have done product-minded research in a (perhaps surprisingly) heterogenous set of of topics: Information Retrieval (e.g. [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477), [SIGIR](https://arxiv.org/abs/2107.03256)), Machine Learning and model evaluation ([WWW](https://arxiv.org/abs/2111.09963), [NeurIps](https://arxiv.org/abs/2110.13601)), NLP ([NAACL](https://aclanthology.org/2021.naacl-main.348/), [ACL](https://aclanthology.org/2020.ecnlp-1.2/)), data science ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9), [KDD](https://arxiv.org/pdf/1907.00400)), AI and Large Language Models ([ICML](https://arxiv.org/abs/2402.05863)), data management ([SIGMOD](https://dl.acm.org/doi/abs/10.1145/3650203.3663335), [VLDB](https://arxiv.org/abs/2308.05368)), human-machine computation ([HCOMP](https://www.humancomputation.com/2019/assets/papers/113.pdf)), computer systems ([WoSC 10](https://arxiv.org/pdf/2410.17465)). Our paper on [cognitively-inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21, and our talk on [reproducible data science on data lakes](https://dl.acm.org/doi/10.1145/3650203.3663335) won the Best Presentation Award at DEEM 24. 
 
-I have been co-organizer of SIGIR eCom (2022, 2023) and EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, Industry Chair at UMAP (2025), and I have been involved in various organizational capacities in several top-tier research events (COLING, EMNLP, ACL, SIRIP, ECONLP, ECNLP).
+I have been co-organizer of SIGIR eCom (2022, 2023) and EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, Industry Chair at UMAP 2025, and I have been involved in various organizational capacities in several top-tier research events (COLING, EMNLP, ACL, SIRIP, ECONLP, ECNLP).
 
 As a true Santa Fe Institute alumnus, I am an old-fashioned generalist, and I gave tiny contributions to other fields mostly as an excuse to spend time with old friends: [logic and computation](https://academic.oup.com/logcom/article-abstract/32/6/1129/6548838?redirectedFrom=fulltext), [cellular automata](https://philpapers.org/archive/BERTPO-77.pdf), [computational social sciences](https://books.openedition.org/ifea/6587?lang=en), [networks](https://appliednetsci.springeropen.com/articles/10.1007/s41109-017-0029-0), [philosophy of mind](https://link.springer.com/article/10.1007/s11023-013-9332-4), [political science](https://www.tandfonline.com/doi/full/10.1080/23248823.2023.2175124), [digital ethics](https://link.springer.com/article/10.1007/s11023-023-09644-y).
 
-Finally, some of my research projects have been [patented](https://patents.google.com/?inventor=jacopo+tagliabue&oq=jacopo+tagliabue), but to this day nobody seems to really know why.
+Finally, some of my projects have been [patented](https://patents.google.com/?inventor=jacopo+tagliabue&oq=jacopo+tagliabue), but to this day nobody seems to really know why.
 
 ## Old stuff
 
@@ -36,13 +36,13 @@ Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(fi
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: March 2025. 
+Last update: June 2025. 
 
 ## Appendix
 
-I often get invited to talk about things I (sort of) know by friends in industry (e.g. Home Depot, Farfetch, eBay, Pinterest, Tubi) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIRIP](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), IEEE Cloud). 
+I often get invited to talk about things I (sort of) know by friends in industry (e.g. Home Depot, Farfetch, eBay, Pinterest, Tubi) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIGIR](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), IEEE Cloud Summit). 
 
-While my full publication list is available on [Google Scholar](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en), quick links to selected projects, talks, papers and datasets are collected here for convenience.
+My publication list is available on [Google Scholar](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en): links to selected projects, talks, papers and datasets are collected here for convenience.
 
 ### Open source projects
 
@@ -61,14 +61,12 @@ While my full publication list is available on [Google Scholar](https://scholar.
 
 ### Papers
 
-* [FaaS and Furious: abstractions and differential caching for efficient data pre-processing](https://www.computer.org/csdl/proceedings-article/bigdata/2024/10825377/23ykNNAWCbK) (IEEE Big Data 2024)
-* [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](https://dl.acm.org/doi/10.1145/3702634.3702955) (WoSC@Middleware 2024) 
-* [Reproducible data science over data lakes](https://dl.acm.org/doi/abs/10.1145/3650203.3663335) (DEEM@SIGMOD 2024, Best Presentation Award)
-* [Contrastive language and vision learning of general fashion concepts](https://www.nature.com/articles/s41598-022-23052-9) (Nat. Sci. Rep. 2022)
+* [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](https://dl.acm.org/doi/10.1145/3702634.3702955) (Middleware 2024) 
+* [Reproducible Data Science over Data Lakes](https://dl.acm.org/doi/abs/10.1145/3650203.3663335) (DEEM@SIGMOD 2024, Best Presentation Award)
+* [Contrastive Language and Vision Learning of General Fashion Concepts](https://www.nature.com/articles/s41598-022-23052-9) (Nat. Sci. Rep. 2022)
 * [The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/10.1145/3383313.3411477) (RecSys 2020)
 * [Query2Prod2Vec: Grounded Word Embeddings for eCommerce](https://aclanthology.org/2021.naacl-industry.20/) (NAACL 2021, Best Paper Award)
 * [Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/) (SEP 2017) 
-* [There’s Plenty of Boole at the Bottom: A Reversible CA Against Information Entropy](https://philpapers.org/archive/BERTPO-77.pdf) (Minds & Machines 2016)
 
 ### Datasets and data challenges
 
