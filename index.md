@@ -26,7 +26,7 @@ Finally, some of my projects have been [patented](https://patents.google.com/?in
 
 ## Old stuff
 
-In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization, document biases in national elections and give an academic talk on videogames. Some of my improbable "achievements" received [ample](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) [press](public/il_foglio_02_2023.pdf) [coverage](https://techcrunch.com/2019/11/06/coveo-raises-227m-at-1b-valuation-for-ai-based-enterprise-search-and-personalization/). 
+In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization, document biases in national elections and give an academic talk on videogames. Some of my improbable "achievements" received [ample](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) [press](public/il_foglio_02_2023.pdf) [coverage](https://techcrunch.com/2019/11/06/coveo-raises-227m-at-1b-valuation-for-ai-based-enterprise-search-and-personalization/) and brief moments of Hacker News popularity. 
 
 Having built end-to-end data pipelines at garage, growth and IPO scale, I happily shared all my mistakes in a series of [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) that introduced the concept of _Reasonable Scale_.
 
@@ -61,6 +61,7 @@ My publication list is available on [Google Scholar](https://scholar.google.com/
 
 ### Papers
 
+* [Eudoxia: a FaaS Scheduling Simulator for The Composable Lakehouse](https://arxiv.org/abs/2505.13750) (CDMS@VLDB 2025)
 * [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](https://dl.acm.org/doi/10.1145/3702634.3702955) (Middleware 2024) 
 * [Reproducible Data Science over Data Lakes](https://dl.acm.org/doi/abs/10.1145/3650203.3663335) (DEEM@SIGMOD 2024, Best Presentation Award)
 * [Contrastive Language and Vision Learning of General Fashion Concepts](https://www.nature.com/articles/s41598-022-23052-9) (Nat. Sci. Rep. 2022)
