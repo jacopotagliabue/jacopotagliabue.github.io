@@ -36,11 +36,11 @@ Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(fi
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: August 2025. 
+Last update: September 2025. 
 
 ## Appendix
 
-I often get invited to talk about things I (sort of) know by friends in industry (e.g. Lyft, Home Depot, Farfetch, eBay, Pinterest, Tubi) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIGIR](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), IEEE Cloud Summit, [VLDB](https://cdmsworkshop.github.io/2025/keynote.html#keynote2), [SRDS](https://srds-conference.org/index.php/keynotes/)). 
+I often get invited to talk about things I (sort of) know by friends in industry (e.g. Lyft, Home Depot, Farfetch, eBay, Pinterest, Tubi) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIGIR](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), IEEE Cloud Summit, [VLDB](public/VLDB_CDMS_KEYNOTE_2025.pdf), [SRDS](https://srds-conference.org/index.php/keynotes/)). 
 
 My publication list is available on [Google Scholar](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en): links to selected projects, talks, papers and datasets are collected here for convenience.
 
@@ -52,6 +52,7 @@ My publication list is available on [Google Scholar](https://scholar.google.com/
 
 ### Talks
 
+* [Speedrunning the lakehouse](public/VLDB_CDMS_KEYNOTE_2025.pdf), _VLDB 2025 (CDMS Keynote)_, 09/25
 * [When FaaS met data](https://systems.ethz.ch/research/compass/when_faas_met_data.html), _ETH Compass Talk_, 11/23
 * [Applied R&D at startup scale](public/SIRIP_2023_keynote.pdf), _SIGIR 2023 (SIRIP Keynote)_, 04/23
 * [Wild Wild Tests](https://www.youtube.com/watch?v=EAjoTnyVGFs), _Arthur Ground Truth Series (Invited Talk)_, 04/23
