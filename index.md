@@ -26,7 +26,7 @@ Finally, some of my projects have been [patented](https://patents.google.com/?in
 
 ## Old stuff
 
-In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization, document biases in national elections and give an academic talk on videogames. Some of my improbable "achievements" received [ample](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) [press](public/il_foglio_02_2023.pdf) [coverage](https://techcrunch.com/2019/11/06/coveo-raises-227m-at-1b-valuation-for-ai-based-enterprise-search-and-personalization/) and brief moments of Hacker News popularity. 
+In previous lives, I managed to get a Ph.D., simulate a pre-Columbian civilization, document biases in national elections and give an academic talk on videogames. Some of my improbable "achievements" received [ample](http://milano.corriere.it/milano/notizie/cronaca/13_settembre_18/ciclobby-censimento-biciclette-mobilita-sostenibile-2223163930809.shtml) [press](public/il_foglio_02_2023.pdf) [coverage](https://techcrunch.com/2019/11/06/coveo-raises-227m-at-1b-valuation-for-ai-based-enterprise-search-and-personalization/) and earned a few sparks of Hacker News front-page popularity. 
 
 Having built end-to-end data pipelines at garage, growth and IPO scale, I happily shared all my mistakes in a series of [articles](https://towardsdatascience.com/tagged/mlops-without-much-ops) that introduced the concept of _Reasonable Scale_.
 
@@ -36,13 +36,13 @@ Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(fi
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: September 2025. 
+Last update: October 2025. 
 
 ## Appendix
 
-I often get invited to talk about things I (sort of) know by friends in industry (e.g. Lyft, Home Depot, Farfetch, eBay, Pinterest, Tubi) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIGIR](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), IEEE Cloud Summit, [VLDB](public/VLDB_CDMS_KEYNOTE_2025.pdf), [SRDS](https://srds-conference.org/index.php/keynotes/)). 
+I often get invited to talk about things I (sort of) know by friends in industry (e.g. NVIDIA, Lyft, Home Depot, eBay, Pinterest, Tubi) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIGIR](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), [VLDB](public/VLDB_CDMS_KEYNOTE_2025.pdf), [SRDS](public/SRDS_KEYNOTE_2025.pdf)). 
 
-My publication list is available on [Google Scholar](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en): links to selected projects, talks, papers and datasets are collected here for convenience.
+My publication list is available on [Google Scholar](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en): selected projects, talks, papers and datasets are collected here for convenience.
 
 ### Open source projects
 
@@ -52,6 +52,7 @@ My publication list is available on [Google Scholar](https://scholar.google.com/
 
 ### Talks
 
+* [How Do We Sleep at Night? Distributed Systems at Startup Speed](public/SRDS_KEYNOTE_2025.pdf), _SRDS 2025 (Keynote)_, 10/25
 * [Speedrunning the lakehouse](public/VLDB_CDMS_KEYNOTE_2025.pdf), _VLDB 2025 (CDMS Keynote)_, 09/25
 * [When FaaS met data](https://systems.ethz.ch/research/compass/when_faas_met_data.html), _ETH Compass Talk_, 11/23
 * [Applied R&D at startup scale](public/SIRIP_2023_keynote.pdf), _SIGIR 2023 (SIRIP Keynote)_, 04/23
