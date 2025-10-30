@@ -2,9 +2,9 @@
 
 Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I am the co-founder of [Bauplan](https://www.bauplanlabs.com/), a data infrastructure company based in NYC and SF. 
 
-I was co-founder and CTO of Tooso, an [AI startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) providing search and recommendations to millions of users, before being acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). I led Coveo's AI from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in open science: our libraries, models and datasets have collected thousands of stars and garnered millions of downloads. 
+I was co-founder and CTO of Tooso, an [AI startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) providing search and recommendations to millions of users, before being acquired by [TSX:CVO](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). I led Coveo's AI from scale-up to IPO, and built out _Coveo Labs_, an [applied R&D practice](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in open science: our libraries, models and datasets have collected thousands of stars and garnered tens of millions of downloads. 
 
-Throughout my career, I have been fortunate enough to collaborate with incredible folks in industry (e.g. [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [NVIDIA](https://rdcu.be/c4dXy)) and academia ([Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Univ. of Wisconsin-Madison](https://dl.acm.org/doi/10.1145/3702634.3702955), [Univ. of Chicago](https://arxiv.org/abs/2505.13750)), and work on products spanning multiple fields: Information Retrieval, Data Science, Artificial Intelligence, Data Management, Computer Systems. My [research contributions](#research) are often product focused, and are memorable mostly for their titles (e.g. "Not all those who browse are lost", "You don't need a bigger boat", "Mo' models, mo' problems", "Faas and Furious").
+Throughout my career, I have been fortunate enough to collaborate with incredible folks in industry (e.g. [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [NVIDIA](https://rdcu.be/c4dXy)) and academia ([Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Univ. of Wisconsin-Madison](https://dl.acm.org/doi/10.1145/3702634.3702955), [Univ. of Chicago](https://arxiv.org/abs/2505.13750)), and work on products spanning multiple fields: Artificial Intelligence,  Data Management, Information Retrieval, Data Science, Computer Systems. My [research contributions](#research) are often product focused, and are memorable mostly for their titles (e.g. "Not all those who browse are lost", "You don't need a bigger boat", "Mo' models, mo' problems", "Faas and Furious").
 
 While building my new startup, I moonlight as [Adj. Professor of ML Systems at NYU](https://github.com/jacopotagliabue/MLSys-NYU-2022), which is only notable because it is the only job I ever had that my parents understand.
 
@@ -40,7 +40,7 @@ Last update: October 2025.
 
 ## Appendix
 
-I often get invited to talk about things I (sort of) know by friends in industry (e.g. NVIDIA, Lyft, Home Depot, eBay, Pinterest, Tubi) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIGIR](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), [VLDB](public/VLDB_CDMS_KEYNOTE_2025.pdf), [SRDS](public/SRDS_KEYNOTE_2025.pdf)). 
+I often get invited to talk about things I (sort of) know by friends in industry (e.g. NVIDIA, Lyft, Home Depot, eBay, Pinterest, Tubi, IBM) and academia (e.g. keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIGIR](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), [VLDB](public/VLDB_CDMS_KEYNOTE_2025.pdf), [SRDS](public/SRDS_KEYNOTE_2025.pdf)). 
 
 My publication list is available on [Google Scholar](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en): selected projects, talks, papers and datasets are collected here for convenience.
 
@@ -53,7 +53,7 @@ My publication list is available on [Google Scholar](https://scholar.google.com/
 ### Talks
 
 * [How Do We Sleep at Night? Distributed Systems at Startup Speed](public/SRDS_KEYNOTE_2025.pdf), _SRDS 2025 (Keynote)_, 10/25
-* [Speedrunning the lakehouse](public/VLDB_CDMS_KEYNOTE_2025.pdf), _VLDB 2025 (CDMS Keynote)_, 09/25
+* [Speedrunning The Lakehouse](public/VLDB_CDMS_KEYNOTE_2025.pdf), _VLDB 2025 (CDMS Keynote)_, 09/25
 * [When FaaS met data](https://systems.ethz.ch/research/compass/when_faas_met_data.html), _ETH Compass Talk_, 11/23
 * [Applied R&D at startup scale](public/SIRIP_2023_keynote.pdf), _SIGIR 2023 (SIRIP Keynote)_, 04/23
 * [Wild Wild Tests](https://www.youtube.com/watch?v=EAjoTnyVGFs), _Arthur Ground Truth Series (Invited Talk)_, 04/23
