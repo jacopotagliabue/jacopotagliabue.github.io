@@ -36,7 +36,7 @@ Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(fi
 
 The content of _jacopotagliabue.it_ are released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi has been designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: October 2025. 
+Last update: November 2025. 
 
 ## Appendix
 
@@ -52,6 +52,7 @@ My publication list is available on [Google Scholar](https://scholar.google.com/
 
 ### Talks
 
+* [From LLMs to agents](public/Columbia_Slides_nov_2025.pdf), _Columbia University_, 11/25
 * [How Do We Sleep at Night? Distributed Systems at Startup Speed](public/SRDS_KEYNOTE_2025.pdf), _SRDS 2025 (Keynote)_, 10/25
 * [Speedrunning The Lakehouse](public/VLDB_CDMS_KEYNOTE_2025.pdf), _VLDB 2025 (CDMS Keynote)_, 09/25
 * [When FaaS met data](https://systems.ethz.ch/research/compass/when_faas_met_data.html), _ETH Compass Talk_, 11/23
