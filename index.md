@@ -12,7 +12,9 @@ While building my new startup, I moonlight as an [Adj. Professor of ML Systems a
 
 I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://medium.com/@jacopotagliabue) and [teaching materials](https://github.com/jacopotagliabue/MLSys-NYU-2022). Selected projects, talks, papers and datasets are highlighted [below](#appendix).
 
-I recently started investing in startups, both directly and as an LP in AI funds: I’m always happy to chat with founders! When stars align, I sometimes advise great teams on AI, Data, and IR: past engagements include Outerbounds (bought by Anaconda), Objective (bought by Upwork) and Plural (bought by SAI360). If you think I can help you, feel free to reach out.
+I recently started investing in startups, both directly and as an LP in AI funds: I’m always happy to chat with founders! 
+
+I recently started investing in startups, both directly and as an LP in AI funds: I’m always happy to chat with founders! When stars align, I sometimes advise great teams on AI, Data, and IR: past engagements include [Outerbounds](https://www.anaconda.com/press/anaconda-acquires-outerbounds) (acquired by Anaconda), [Objective](https://investors.upwork.com/news-releases/news-release-details/upwork-reports-fourth-quarter-and-full-year-2024-financial) (acquired by Upwork), and [Plural](https://www.sai360.com/resources/sai360/sai360-announces-acquisition-of-plural-policy-expanding-ai-compliance-capabilities-to-accelerate-regulatory-change-management) (acquired by SAI360). If you think I can help, feel free to reach out.
 
 ### Research
 
