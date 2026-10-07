@@ -65,6 +65,7 @@ My publication list is available on [Google Scholar](https://scholar.google.com/
 
 ### Selected Papers
 
+* [GitLake: Git-for-data for the agentic lakehouse](https://vldb.org/2026/Workshops/VLDB-Workshops-2026/DASHSys/DASHSys26_3.pdf) (VLDB Workshops 2026)
 * [Trustworthy AI in the Agentic Lakehouse: from Concurrency to Governance](https://www.arxiv.org/abs/2511.16402) (AAAI 2026)
 * [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](https://dl.acm.org/doi/10.1145/3702634.3702955) (Middleware 2024)
 * [How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis](https://arxiv.org/pdf/2402.05863) (ICML 2024)
