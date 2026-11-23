@@ -2,7 +2,7 @@
 
 Educated in several acronyms across the globe (UNISR, [SFI](https://www.santafe.edu/engage/learn/alumni/jacopo-tagliabue), MIT), I am the co-founder of [Bauplan](https://www.bauplanlabs.com/), an agentic data infrastructure company based in SF.
 
-I was the co-founder and CTO of Tooso, an [AI startup](https://www.gartner.com/en/documents/3913700/cool-vendors-in-digital-commerce) providing search and recommendations to millions of users, before it was acquired by [Coveo (TSX:CVO)](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). I led Coveo's AI from scale-up to IPO, and built out _Coveo Labs_, an [R&D lab](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in open science: our libraries, models and datasets have collected thousands of stars and garnered tens of millions of downloads. 
+I was the co-founder and CTO of Tooso, an AI startup providing search and recommendations to millions of users, before it was acquired by [Coveo (TSX:CVO)](https://www.coveo.com/en/company/news-releases/2019/coveo-acquires-tooso). I led Coveo's AI from scale-up to IPO, and built out _Coveo Labs_, an [R&D lab](https://medium.com/the-techlife/applied-research-at-reasonable-scale-8a74d2beed89) rooted in open science: our libraries, models and datasets have collected thousands of stars and garnered tens of millions of downloads. 
 
 Throughout my career, I have been fortunate to collaborate with incredible teams (e.g. [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [NVIDIA](https://rdcu.be/c4dXy), [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Univ. of Wisconsin-Madison](https://dl.acm.org/doi/10.1145/3702634.3702955)), while working on products spanning multiple fields: Artificial Intelligence, Data Management, Information Retrieval, Computer Systems. My [research contributions](#research) are often product-focused, and are memorable mostly for their titles (e.g. "Not all those who browse are lost", "You don't need a bigger boat", "FaaS and Furious").
 
@@ -12,13 +12,13 @@ While building my new startup, I moonlight as an [Adj. Professor of ML Systems a
 
 I occasionally share [code](https://github.com/jacopotagliabue), [ideas](https://medium.com/@jacopotagliabue) and [teaching materials](https://github.com/jacopotagliabue/MLSys-NYU-2022). Selected projects, talks, papers and datasets are highlighted [below](#appendix).
 
-I recently started investing in startups, both directly and as an LP in AI funds: I’m always happy to chat with founders! 
+I recently started investing in startups, both directly and as an LP in AI funds: I'm always happy to chat with founders! 
 
 When the stars align, I sometimes advise great teams on AI, Data, and IR: past engagements include [Outerbounds](https://www.anaconda.com/press/anaconda-acquires-outerbounds) (acquired by Anaconda), [Objective](https://investors.upwork.com/news-releases/news-release-details/upwork-reports-fourth-quarter-and-full-year-2024-financial) (acquired by Upwork), and [Plural](https://www.sai360.com/resources/sai360/sai360-announces-acquisition-of-plural-policy-expanding-ai-compliance-capabilities-to-accelerate-regulatory-change-management) (acquired by SAI360). If you think I can help, feel free to reach out.
 
 ### Research
 
-I have done research on a heterogeneous set of topics: Information Retrieval (e.g. [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477), [SIGIR](https://arxiv.org/abs/2107.03256)), Machine Learning and model evaluation ([WWW](https://dl.acm.org/doi/10.1145/3487553.3524215), [NeurIPS](https://arxiv.org/abs/2110.13601)), NLP ([NAACL](https://aclanthology.org/2021.naacl-main.348/), [ACL](https://aclanthology.org/2020.ecnlp-1.2/)), data science ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9), [KDD](https://arxiv.org/pdf/1907.00400)), agentic AI and Large Language Models ([ICML](https://dl.acm.org/doi/10.5555/3692070.3692228)), data management ([SIGMOD](https://dl.acm.org/doi/abs/10.1145/3650203.3663335), [VLDB](https://arxiv.org/abs/2308.05368), HPTS), human-machine computation ([HCOMP](https://www.humancomputation.com/2019/assets/papers/113.pdf)), computer systems ([Middleware](https://dl.acm.org/doi/10.1145/3702634.3702955), FAST). Our paper on [cognitively inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21, and our talk on [reproducible data pipelines on data lakes](https://dl.acm.org/doi/10.1145/3650203.3663335) won the Best Presentation Award at DEEM (SIGMOD) 24. 
+I have done research on a heterogeneous set of topics: Information Retrieval (e.g. [RecSys](https://dl.acm.org/doi/10.1145/3383313.3411477), [SIGIR](https://arxiv.org/abs/2107.03256)), Machine Learning and model evaluation ([WWW](https://dl.acm.org/doi/10.1145/3487553.3524215), [NeurIPS](https://arxiv.org/abs/2110.13601)), NLP ([NAACL](https://aclanthology.org/2021.naacl-main.348/), [ACL](https://aclanthology.org/2020.ecnlp-1.2/)), data science ([Nat. Sci. Rep.](https://www.nature.com/articles/s41598-022-23052-9), [KDD](https://arxiv.org/pdf/1907.00400)), agentic AI and Large Language Models ([ICML](https://dl.acm.org/doi/10.5555/3692070.3692228)), data management ([SIGMOD](https://dl.acm.org/doi/abs/10.1145/3650203.3663335), [VLDB](https://arxiv.org/abs/2308.05368), HPTS), human-machine computation ([HCOMP](https://www.humancomputation.com/2019/assets/papers/113.pdf)), computer systems ([Middleware](https://dl.acm.org/doi/10.1145/3702634.3702955), [FAST](https://www.usenix.org/conference/fast27/presentation/dai)). Our paper on [cognitively inspired query embeddings](https://aclanthology.org/2021.naacl-industry.20/) won the Best Paper Award at NAACL 21, and our talk on [reproducible data pipelines](https://dl.acm.org/doi/10.1145/3650203.3663335) won the Best Presentation Award at DEEM (SIGMOD) 24. Our research, datasets and models have been widely cited and used across the best AI labs in the industry, including [Anthropic](https://www.anthropic.com/research/project-swap), [Google DeepMind](https://aclanthology.org/2025.nllp-1.2/), and [NVIDIA](https://medium.com/nvidia-merlin/winning-the-sigir-ecommerce-challenge-on-session-based-recommendation-with-transformers-v2-793f6fac2994).
 
 I was the lead organizer of [Supporting Our AI Overlords](https://bauplanlabs.github.io/SAO-workshop/) at ACM CAIS, the first-ever research workshop at the intersection of AI agents and data systems. I have been a co-organizer of SIGIR eCom (2022, 2023) and EvalRS (2022, 2023), Industry Sponsorship Chair for CIKM 2022, Industry Chair at UMAP 2025, and I have been involved in various capacities in several top-tier events (e.g. EMNLP, ACL, SIRIP, ECONLP, ECNLP, PaPoC).
 
@@ -38,11 +38,11 @@ Some time before [Brad Pitt's movie](https://en.wikipedia.org/wiki/Moneyball_(fi
 
 The content of _jacopotagliabue.it_ is released under the [BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/); my chibi was designed by the incredibly talented [wisesnail](https://www.instagram.com/wisesnail/?hl=en). 
 
-Last update: October 2026. 
+Last update: November 2026. 
 
 ## Appendix
 
-Friends in industry and academia often invite me to talk about things I (sort of) know. Highlights include keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIGIR](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), [VLDB](public/VLDB_CDMS_KEYNOTE_2025.pdf), and [SRDS](public/SRDS_KEYNOTE_2025.pdf), plus talks at NVIDIA, Lyft, Home Depot, Pinterest, IBM, [Columbia](public/Columbia_Slides_nov_2025.pdf), Berkeley, and many others.
+Friends in industry and academia often invite me to talk about things I (sort of) know. Highlights include keynotes at [KDD](public/ADKDD_talk_Aug_2023.pdf), [SIGIR](public/SIRIP_2023_keynote.pdf), [RecSys](https://orsum.inesctec.pt/orsum2023/keynote.php), [CiE](public/are_we_there_yet.pdf), [VLDB](public/VLDB_CDMS_KEYNOTE_2025.pdf), [SRDS](public/SRDS_KEYNOTE_2025.pdf), and [CIKM](public/CIKM_2026_Keynote.html), plus talks at NVIDIA, Lyft, Home Depot, Pinterest, IBM, [Columbia](public/Columbia_Slides_nov_2025.pdf), Berkeley, and many others.
 
 My publication list is available on [Google Scholar](https://scholar.google.com/citations?user=NDX19U0AAAAJ&hl=en): selected projects, talks, papers and datasets are collected here for convenience.
 
@@ -54,6 +54,7 @@ My publication list is available on [Google Scholar](https://scholar.google.com/
 
 ### Selected Talks
 
+* [AI Is (Still) a Data Management Problem](public/CIKM_2026_Keynote.html), _CIKM 2026 (Keynote)_, 11/26
 * [Git-for-everything and the self-driving data stack](public/TAGLIABUE_GIT_HPTS_2026.pdf), _HPTS_, 10/26
 * [From LLMs to agents](public/Columbia_Slides_nov_2025.pdf), _Columbia University_, 11/25
 * [How Do We Sleep at Night? Distributed Systems at Startup Speed](public/SRDS_KEYNOTE_2025.pdf), _SRDS 2025 (Keynote)_, 10/25
@@ -65,6 +66,7 @@ My publication list is available on [Google Scholar](https://scholar.google.com/
 
 ### Selected Papers
 
+* [Test-Time Optimization of Physical Query Plans with LLMs](https://arxiv.org/pdf/2602.10387) (ML for Systems, NeurIPS 2026)
 * [GitLake: Git-for-data for the agentic lakehouse](https://vldb.org/2026/Workshops/VLDB-Workshops-2026/DASHSys/DASHSys26_3.pdf) (VLDB Workshops 2026)
 * [Trustworthy AI in the Agentic Lakehouse: from Concurrency to Governance](https://www.arxiv.org/abs/2511.16402) (AAAI 2026)
 * [Bauplan: Zero-Copy, Scale-Up FaaS for Data Pipelines](https://dl.acm.org/doi/10.1145/3702634.3702955) (Middleware 2024)
