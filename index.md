@@ -6,7 +6,7 @@ I was the co-founder and CTO of Tooso, an AI startup providing search and recomm
 
 Throughout my career, I have been fortunate to collaborate with incredible teams (e.g. [Netflix](https://arxiv.org/pdf/2303.11761.pdf), [NVIDIA](https://rdcu.be/c4dXy), [Stanford](https://www.nature.com/articles/s41598-022-23052-9), [Univ. of Wisconsin-Madison](https://dl.acm.org/doi/10.1145/3702634.3702955)), while working on products spanning multiple fields: Artificial Intelligence, Data Management, Information Retrieval, Computer Systems. My [research contributions](#research) are often product-focused, and are memorable mostly for their titles (e.g. "Not all those who browse are lost", "You don't need a bigger boat", "FaaS and Furious").
 
-While building my new startup, I moonlight as an [Adj. Professor of ML Systems at NYU](https://github.com/jacopotagliabue/MLSys-NYU-2022), which is only notable because it is the only job I have ever had that my parents understand.
+While building my new startup, I moonlight as an [Adj. Professor of AI at NYU](https://github.com/jacopotagliabue/MLSys-NYU-2022), which is only notable because it is the only job I have ever had that my parents understand.
 
 ### Where is my mind?
 
